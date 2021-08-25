@@ -1,0 +1,53 @@
+{
+  "name": "@eightshift/docs",
+  "version": "5.0.0",
+  "description": "A documentation website for Eightshift open source projects.",
+  "author": {
+    "name": "Eightshift team",
+    "email": "team@eightshift.com",
+    "url": "https://eightshift.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinum/eightshift-docs.git"
+  },
+  "keywords": [
+    "frontend",
+    "scss",
+    "mixin",
+    "js",
+    "utility",
+    "module",
+    "WordPress"
+  ],
+  "bugs": {
+    "url": "https://github.com/infinum/eightshift-docs/issues"
+  },
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-alpha.50",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.50",
+    "@eightshift/frontend-libs": "^3.2.2",
+    "docusaurus-plugin-sass": "^0.1.8",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-scripts": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
