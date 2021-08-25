@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Asra Paradise
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Asra Paradise is an extremely friendly and fun, social discord server with active voice and text channels. Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
