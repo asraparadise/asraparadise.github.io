@@ -1,32 +1,94 @@
-<p align="center">
-	<img alt="Eightshift Frontend Libs" src="https://repository-images.githubusercontent.com/236449101/77ca190e-d3c9-41a3-9f76-2cc04a6bab62"/>
-</p>
+# Jekyll Serif Theme
 
-[![GitHub tag](https://img.shields.io/github/tag/infinum/eightshift-docs.svg?style=for-the-badge)](https://github.com/infinum/eightshift-docs)
-[![GitHub stars](https://img.shields.io/github/stars/infinum/eightshift-docs.svg?style=for-the-badge&label=Stars)](https://github.com/infinum/eightshift-docs/)
-[![license](https://img.shields.io/github/license/infinum/eightshift-docs.svg?style=for-the-badge)](https://github.com/infinum/eightshift-docs)
+Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-# Eightshift Docs
+[Live Demo](https://jekyll-serif.netlify.app/) | 
+[Zerostatic Themes](https://www.zerostatic.io)
 
-A documentation website for Eightshift open source projects.
+![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
 
-Visit:
+### Theme features
 
-[https://infinum.github.io/eightshift-docs/](https://infinum.github.io/eightshift-docs/).
+- Jekyll 4.1
+- Services (Collection)
+- Team (Collection)
+- Features (Data)
+- SCSS
+- Responsive design
+- Bootstrap 4.3 grid and media queries only
+- Responsive menu
+- 100/100 Google Lighthouse speed score
+- 100/100 Google Lighthouse seo score
+- 100/100 Google Lighthouse accessibility score
+- 100/100 Google Lighthouse best practices score
+- Under 50KB without images or 80KB with images and illustrations ⚡
+- Under 20KB without Google fonts ⚡⚡⚡
+- Robust example content included
+- Royalty free illustrations included
+- Netlify & Github Pages ready
 
-To run docs locally:
+## Installation
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start` inside the `websites` folder.
+### Installing Ruby & Jekyll
+ 
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
-## Who do I talk to?
+### Installing Theme
 
-If you have any questions or problems, please [open an issue](https://github.com/infinum/eightshift-docs/issues) on github and we will do our best to give you a timely answer.
+Download or clone the theme.
 
-## Maintainers
-Eightshift Docs is maintained and sponsored by
-[Eightshift](https://eightshift.com) and [Infinum](https://infinum.com).
+To run the theme locally, navigate to the theme directory and run:
 
-## License
-Eightshift Docs &copy;2021 [Eightshift](https://eightshift.com) and [Infinum](https://infinum.com). It is free software, and may be redistributed under the terms specified in the LICENSE file.
+```
+bundle install
+``` 
+
+To start the Jekyll local development server.
+
+```
+bundle exec jekyll serve
+``` 
+
+To build the theme.
+ 
+```
+bundle exec jekyll build
+```
+
+## Deployment
+
+### Stackbit
+
+Use Stackbit to deploy this theme. This theme contains a valid and tested `stackbit.yaml`
+
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+### Netlify
+
+Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+### Github Pages
+This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+
+For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+
+## License & Credits
+
+### Credits
+
+- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
+- Stock images by Unsplash - https://unsplash.com/
+- Feature icons by Noun Project - https://thenounproject.com/
+
+### License
+
+This theme is open source under the MIT license. Please be respectful 🙏🏽 Leave me as an original author in the LICENSE file if you fork or copy this theme. 
+
+> Do not create ports of this theme. Do You can't re-distribute or re-sell this theme as a theme, stock, in a tool or as a template.
+
+### Other Versions
+
+- [Hugo Serif Theme](https://github.com/zerostaticthemes/hugo-serif-theme) (official)
+- [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official)
