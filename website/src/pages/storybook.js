@@ -15,7 +15,7 @@ export default function Storybook() {
       keywords={siteConfig.customFields.keywords}
       metaImage={useBaseUrl(`img/${siteConfig.customFields.image}`)}
     >
-        <Iframe src="https://infinum.github.io/eightshift-frontend-libs/storybook/" />
+        <Iframe src="https://asraparadise.github.io/eightshift-frontend-libs/storybook/" />
     </Layout>
   );
 };
