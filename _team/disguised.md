@@ -1,10 +1,10 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
+title: "Disguised"
+date: 2021-08-25T10:47:58+10:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+image: "images/team/disguised.png"
+jobtitle: "Owner"
+linkedinurl: ""
 promoted: true
 weight: 1
 layout: team

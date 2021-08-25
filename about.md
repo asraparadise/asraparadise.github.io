@@ -5,10 +5,6 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
 ## Who is behind Asra Paradise?
 
 Asra Paradise was opened on the 18th January 2021 by Disguised#4241.
@@ -33,3 +29,11 @@ In a discord that allows advertisements. Asra Paradise is not one of them.
 ## I think I am unrightfully banned. Where do I appeal?
 
 Contact @Disguised#4241 for more information and to appeal.
+
+## How can I request features?
+
+To request a feature for the bot use the following command in Asra:
+a!botsuggest [suggestion]
+
+To request a feature for the server use the following command in Asra:
+a!suggest [suggestion]
