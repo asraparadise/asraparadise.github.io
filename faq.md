@@ -1,8 +1,8 @@
 ---
 title: FAQ
 layout: page
-description: About
-bodyClass: page-about
+description: FAQ
+bodyClass: page-faq
 ---
 
 ## Who is behind Asra Paradise?
