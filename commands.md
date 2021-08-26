@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Welcome to the Asra Paradise Bot Wiki!
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+The Asra Paradise bot is a specially designed custom Discord bot for Asra Paradise which features many commands, games and moderation features.
+This documentation provides information on each module/command, including the description, usage, and examples.
+If you need any additional help with the bot, ask in the [Discord server](https://discord.gg/EbYwxMVfUA)!
