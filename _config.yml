@@ -11,7 +11,7 @@ logo:
   desktop_width: "120px"
 
 collections:
-  services:
+  commands:
     output: true
   team:
     output: true
