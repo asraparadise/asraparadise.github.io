@@ -61,10 +61,10 @@ models:
         name: layout
         default: "home"
         hidden: true
-  services:
+  commands:
     type: page
-    label: Services
-    file: services.md
+    label: Commands
+    file: commands.md
     singleInstance: true
     fields:
       - type: string
@@ -126,10 +126,10 @@ models:
             value: page
           - label: contact
             value: contact
-  service:
+  command:
     type: page
-    label: Service
-    folder: _services
+    label: Command
+    folder: _commands
     match: "*"
     fields:
       - type: string
