@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Our support team is available during the following times. The discord server is open 24/7.
+Our website support team through the chat widget is available during the following times.
 
 | Day       | Opening Hours     |
 | --------- | ----------------- |
