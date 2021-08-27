@@ -9,7 +9,7 @@ dataDir: "_data"
 pagesDir: ""
 pageLayoutKey: null
 logicFields:
-  - service.weight
+  - command.weight
   - team.weight
 models:
   config:
@@ -148,8 +148,8 @@ models:
       - type: enum
         name: layout
         options:
-          - label: service
-            value: service
+          - label: command
+            value: command
   team:
     type: page
     label: Team
