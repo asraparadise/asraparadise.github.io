@@ -2,6 +2,7 @@
 title: "Fun"
 date: 2021-08-25T12:33:46+10:00
 featured: true
+show: true
 weight: 4
 layout: command
 ---

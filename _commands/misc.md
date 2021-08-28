@@ -2,6 +2,7 @@
 title: "Misc"
 date: 2021-08-25T15:14:39+10:00
 featured: true
+show: true
 weight: 7
 layout: command
 ---

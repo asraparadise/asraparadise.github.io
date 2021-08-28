@@ -2,6 +2,7 @@
 title: "Music"
 date: 2021-08-25T15:14:39+10:00
 featured: false
+show: true
 weight: 8
 layout: command
 ---

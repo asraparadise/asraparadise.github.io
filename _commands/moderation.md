@@ -2,6 +2,7 @@
 title: "Moderation"
 date: 2021-08-25T15:14:39+10:00
 featured: false
+show: true
 weight: 9
 layout: command
 ---

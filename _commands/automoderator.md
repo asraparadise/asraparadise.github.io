@@ -2,6 +2,7 @@
 title: "Auto-Moderator"
 date: 2021-08-25T15:14:39+10:00
 featured: false
+show: false
 weight: 11
 layout: command
 ---

@@ -2,6 +2,7 @@
 title: "Economy"
 date: 2021-08-25T15:15:34+10:00
 featured: true
+show: true
 weight: 3
 layout: command
 ---
