@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Our website support team through the chat widget is available during the following times.
+Our website support team through the chat widget is available during the following times. While we will aim to reply as quickly as possible, this isn't always feasible.
 
 | Day       | Opening Hours     |
 | --------- | ----------------- |
