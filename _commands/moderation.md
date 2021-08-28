@@ -10,7 +10,7 @@ The Moderation Module houses a range of basic moderation commands to take contro
 
 ## Auto-Moderator
 
-[Click here](https://asraparadise.github.io/commands/automoderator) to view info on how the auto-moderation module behaves in Asra.
+**[Click here](https://asraparadise.github.io/commands/automoderator) to view info on how the auto-moderation module behaves in Asra.**
 
 
 ## How to Enable/Disable Commands
