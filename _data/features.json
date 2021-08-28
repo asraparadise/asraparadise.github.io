@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Welcoming Community",
+    "description": "The perfect place to make friends and meet new people.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Fun Commands",
+    "description": "Asra has lots of fun commands for you to use.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Levelling system",
+    "description": "Earn in-server rewards through our levelling system.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
