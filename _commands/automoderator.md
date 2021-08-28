@@ -50,7 +50,5 @@ Duplicate Text detects a message that contains repeated text, as well as repeate
 
 Messages containing duplicated text are deleted automatically and logged in \#🚫│moderation-log.  
 
-{% hint style="danger" %}
-The Duplicate Text Module is currently disabled.
-{% endhint %}
+> **Danger:** The Duplicate Text Module is currently disabled.
 
