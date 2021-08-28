@@ -2,7 +2,8 @@
 title: "Donation"
 date: 2021-08-25T15:14:39+10:00
 featured: false
-weight: 8
+weight: 2
+layout: command
 ---
 
 The Donate Module allows users to donate to giveaways and host their own as well as track what they have given.

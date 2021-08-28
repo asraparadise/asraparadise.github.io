@@ -2,7 +2,7 @@
 title: "Leaderboard"
 date: 2021-08-25T15:14:54+10:00
 featured: true
-weight: 5
+weight: 6
 layout: command
 ---
 

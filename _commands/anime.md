@@ -2,7 +2,8 @@
 title: "Anime"
 date: 2021-08-25T15:15:26+10:00
 featured: true
-weight: 3
+weight: 1
+layout: command
 ---
 
 The Anime Module provides a range of fun commands to show emotions in text channels.

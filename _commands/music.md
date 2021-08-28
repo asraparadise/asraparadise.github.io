@@ -2,7 +2,8 @@
 title: "Music"
 date: 2021-08-25T15:14:39+10:00
 featured: false
-weight: 7
+weight: 8
+layout: command
 ---
 
 The Music Module has commands related to music such as a lyrics finder and a command which shows information about the current song you are listening to on Spotify.
