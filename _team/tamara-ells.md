@@ -1,10 +1,14 @@
 ---
-title: "Tamara Ells"
-date: 2018-12-20T13:44:55+10:00
+title: "Spoky"
+date: 2021-08-25T13:44:55+10:00
 draft: false
-image: "images/team/michael-dam-258165-unsplash.jpg"
-jobtitle: "UI Designer"
-weight: 4
+image: "images/team/spoky.png"
+jobtitle: "Senior Mod"
+promoted: true
+weight: 7
+layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Sorry, Remix hasn't written a message yet. When they do, it will appear here!
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
