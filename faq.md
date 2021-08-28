@@ -33,7 +33,9 @@ Contact @Disguised#4241 for more information and to appeal.
 ## How can I request features?
 
 To request a feature for the bot use the following command in Asra:
-a!botsuggest [suggestion]
+
+`a!botsuggest [suggestion]`
 
 To request a feature for the server use the following command in Asra:
-a!suggest [suggestion]
+
+`a!suggest [suggestion]`
