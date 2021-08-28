@@ -7,7 +7,7 @@ bodyClass: page-faq
 
 ## :wave: Who is behind Asra Paradise?
 
-Asra Paradise was opened on the 18th January 2021 by Disguised#4241.
+:wave: Asra Paradise was opened on the 18th January 2021 by Disguised#4241.
 You can read more about us on our [Team page](https://asraparadise.github.io/team). 
 
 ## :chart_with_upwards_trend: How do I gain xp?
