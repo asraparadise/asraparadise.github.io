@@ -19,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Terms"
+    url: "/terms/"
+    weight: 3
