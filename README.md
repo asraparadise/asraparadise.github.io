@@ -7,4 +7,4 @@
 
 Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
 
-https://www.youtube.com/watch?v=zqr_4MK5bZo
+https://www.youtube.com/watch?v=zqr_4MK5bZo 
