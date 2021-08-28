@@ -57,5 +57,5 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
 
 # Contact us
-If you have any questions about our Terms, please contact us by email: [disguisedbusiness@gmail.com]("mailto:disguisedbusiness@gmail.com").
+If you have any questions about our Terms, please contact us by email: [disguisedbusiness@gmail.com](mailto:disguisedbusiness@gmail.com).
 
