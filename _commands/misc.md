@@ -5,6 +5,10 @@ featured: true
 weight: 2
 ---
 
+The Misc Module has all the commands that don't fit another category. Main commands include afk, avatar and snipe!
+
+## Commands
+
 | Command   | Description                                                   | Usage                         |
 | --------- | ------------------------------------------------------------- | ----------------------------- |
 | afk       | Set yourself as AFK                                           | `a!afk (reason)`              |
