@@ -15,6 +15,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 ## Definitions
 - **Service**
+
   Service is the https://asraparadise.github.io website operated by Asra Paradise
 
 - **Personal Data**
