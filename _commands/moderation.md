@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: "Moderation"
 date: 2021-08-25T15:14:39+10:00
 featured: false
 weight: 9
@@ -10,7 +10,7 @@ The Moderation Module houses a range of basic moderation commands to take contro
 
 ## Auto-Moderator
 
-[Click here](https://asraparadise.github.io/commands/moderation/automoderator) to view info on how the auto-moderation module behaves in Asra.
+[Click here](https://asraparadise.github.io/commands/automoderator) to view info on how the auto-moderation module behaves in Asra.
 
 
 ## How to Enable/Disable Commands
