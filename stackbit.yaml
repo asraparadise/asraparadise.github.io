@@ -51,7 +51,7 @@ models:
       - type: boolean
         name: show_call_box
         label: Show Call Box
-        description: Show contact info on homepage?
+        description: Show support info on homepage?
       - type: datetime
         name: date
         label: Date
@@ -195,8 +195,8 @@ models:
         name: phone
         label: Phone
       - type: string
-        name: contact_button_link
-        label: Contact Button Link
+        name: support_button_link
+        label: Support Button Link
   features:
     type: data
     label: Features
