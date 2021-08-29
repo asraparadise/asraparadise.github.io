@@ -124,8 +124,8 @@ models:
         options:
           - label: page
             value: page
-          - label: contact
-            value: contact
+          - label: support
+            value: support
   command:
     type: page
     label: Command
@@ -183,10 +183,10 @@ models:
       - type: boolean
         name: promoted
         label: Promoted
-  contact:
+  support:
     type: data
-    label: Contact
-    file: contact.yml
+    label: Support
+    file: support.yml
     fields:
       - type: string
         name: email
