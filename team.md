@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 Our staff team are here to help and work hard to make sure your experience in Asra is as amazing as possible.
 
 
-✔ **Join us, we're hiring!**
+✅ **Join us, we're hiring!**
 
 [Apply now](https://forms.gle/A6BL4zZXwR9rNnsJA)
 
