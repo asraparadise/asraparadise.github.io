@@ -2,6 +2,7 @@
 title: "Misc"
 date: 2021-08-25T15:14:39+10:00
 featured: true
+description: The Misc Module has all the commands that don't fit another category. Main commands include afk, avatar and snipe!
 show: true
 weight: 7
 layout: command

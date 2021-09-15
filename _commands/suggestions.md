@@ -2,6 +2,7 @@
 title: "Suggestions"
 date: 2021-08-25T15:14:39+10:00
 featured: false
+description: We want your feedback! Request features for the bot or the server with these commands.
 show: true
 weight: 10
 layout: command

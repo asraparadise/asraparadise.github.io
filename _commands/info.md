@@ -2,6 +2,7 @@
 title: "Info"
 date: 2021-08-25T12:33:46+10:00
 featured: true
+description: The Info Module provides useful information about the server.
 show: true
 weight: 5
 layout: command
