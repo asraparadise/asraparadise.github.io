@@ -5,6 +5,14 @@ description: FAQ
 bodyClass: page-faq
 ---
 
+## 👋 What is Asra Paradise?
+
+**Asra Paradise** is an extremely friendly and fun, social discord server with active voice and text channels.
+
+Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqr_4MK5bZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 👋 Who is behind Asra Paradise?
 
 Asra Paradise was opened on the 18th January 2021 by Disguised#4241.
