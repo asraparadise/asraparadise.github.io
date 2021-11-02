@@ -10,7 +10,3 @@ weight: 6
 layout: team
 ---
 
-Sorry, Wowzie hasn't written a message yet. When they do, it will appear here!
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
