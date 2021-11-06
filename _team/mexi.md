@@ -10,3 +10,5 @@ weight: 2
 ---
 
 Asra Is The Best Server I Have Worked For!
+
+Check out my bot [Vyrix](https://asraparadise.github.io/partners)!
