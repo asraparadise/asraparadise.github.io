@@ -12,9 +12,13 @@ weight: 2
 Asra Is The Best Server I Have Worked For!
 
 🔶 Name: Lêxi
+
 🔶 Dms: Open
+
 🔷 Pronouns: They/Them
+
 🔷 Gender: Non-Binary
+
 🔷 Sexuality: Pansexual
 
 Hey I'm Lexi. I'm a young programmer who is currently working on a Discord Bot [Vyrix](https://asraparadise.github.io/partners) so make sure you check it out!
