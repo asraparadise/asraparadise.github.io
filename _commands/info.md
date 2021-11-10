@@ -14,12 +14,11 @@ The Info Module provides useful information about the server.
 
 | Command      | Description                                                   | Usage                         |
 | ------------ | ------------------------------------------------------------- | ----------------------------- |
-| about        | Show info about the bot                                       | `a!about`                     |
-| bot info     | Show detailed info about the bot client                       | `a!botinfo`                   |
-| emojis       | Display all emojis in the server                              | `a!emojis`                    |
+| about        | Show info about the bot                                       | `/about`                      |
+| bot info     | Show detailed info about the bot client                       | `/info bot`                   |
+| emojis       | Display all emojis in the server                              | `/emojis`                     |
 | help         | List of all commands                                          | `a!help (command name)`       |
-| member count | Display the member count for the server                       | `a!membercount`               |
-| ping         | Retrieves the bot's ping                                      | `a!ping`                      |
-| roles        | Lists all roles in the guild                                  | `a!roles`                     |
-| server       | Displays stats about the server                               | `a!server`                    |
-| test         | Test the bot is responding to commands                        | `a!test`                      |
+| member count | Display the member count for the server                       | `/membercount`                |
+| ping         | Tests the bot's response time 				       | `/ping`                       |
+| roles        | Lists all roles in the guild                                  | `/roles`                      |
+| server       | Displays stats about the server                               | `/info server`                |

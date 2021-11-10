@@ -12,8 +12,8 @@ The Donate Module allows users to donate to giveaways and host their own as well
 
 ## Commands
 
-| Command        | Description                                                   | Usage                                                                |
-| -------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| donate         | Get the lyrics of a song                                      | `a!donate [time] \| [winners] \| [requirements] \| [prize] \| [message]` |
-| donations list | Find how much you have donated in total to giveaways          | `a!totaldonations (user)`                                            |
-| value          | Find the value of dank memer items available for giveaways    | `a!value`                                                            |
+| Command        | Description                                                   | Usage                                                                   |
+| -------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| donate         | Donate to a giveaway                                          | `/donate [time] \| [winners] \| [prize] \| [message] \| [role req]`     |
+| donations list | Find how much you have donated in total to giveaways          | `/totaldonations (user)`                                                |
+| value          | Find the value of dank memer items available for giveaways    | `/value`                                                                |

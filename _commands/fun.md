@@ -14,31 +14,31 @@ The Fun Module provides a range of fun commands to have fun using while in Asra.
 
 | Command             | Description                                                   | Usage                         |
 | ------------------- | ------------------------------------------------------------- | ----------------------------- |
-| 8 ball              | Ask the magic 8ball about your future!                        | `a!8ball [question]`          |
-| dare                | Get a dare                                                    | `a!dare`                      |
-| dice                | Roll a 6 sided dice                                           | `a!dice`                      |
-| hack                | Hack your friends! Or your enemies...                         | `a!hack [user]`               |
-| how gay             | See how gay you are (100% real)                               | `a!howgay (user)`             |
-| iq                  | See how smart you are (100% real)                             | `a!iq`                        |
-| joke                | See a funny joke. Dad's love them!                            | `a!joke`                      |
-| question            | Get a question to answer                                      | `a!question`                  |
-| rock paper scissors | Play a game of Rock, Paper, Scissors against the bot          | `a!rps`                       |
-| simprate            | See how simp you are, 100% official score                     | `a!simprate (user)`           |
-| truth               | Get a truth question to answer                                | `a!truth`                     |
+| 8 ball              | Ask the magic 8ball about your future!                        | `/8ball [question]`           |
+| dare                | Get a dare                                                    | `/dare`                       |
+| dice                | Roll a 6 sided dice                                           | `/dice`                       |
+| hack                | Hack your friends! Or your enemies...                         | `/hack [user]`                |
+| how gay             | See how gay you are (100% real)                               | `/howgay (user)`              |
+| iq                  | See how smart you are (100% real)                             | `/iq`                         |
+| joke                | See a funny joke. Dad's love them!                            | `/joke`                       |
+| question            | Get a question to answer                                      | `/question`                   |
+| rock paper scissors | Play a game of Rock, Paper, Scissors against the bot          | `/rps`                        |
+| simprate            | See how simp you are, 100% official score                     | `/simprate (user)`            |
+| truth               | Get a truth question to answer                                | `/truth`                      |
 
 
 ## Image Commands
 
-| Command             | Description                                                   | Usage                         |
-| ------------------- | ------------------------------------------------------------- | ----------------------------- |
-| bird                | Show a picture of a bird                                      | `a!bird`                      |
-| cat                 | Show a picture of a cat                                       | `a!cat`                       |
-| cute                | See some random cute things                                   | `a!cute`                      |
-| discord meme        | A random Discord-themed meme!                                 | `a!discordmeme`               |
-| dog                 | Show a picture of a dog                                       | `a!dog`                       |
-| funny               | Shows a funny image                                           | `a!funny`                     |
-| meme                | See the top new memes on reddit!                              | `a!meme`                      |
-| monkey              | Show a picture of a monkey                                    | `a!monkey`                    |
-| nuke                | Nuke a server (100% real)                                     | `a!nuke`                      |
+| Command             | Description                                                   | Usage                        |
+| ------------------- | ------------------------------------------------------------- | ---------------------------- |
+| bird                | Show a picture of a bird                                      | `/gif bird`                  |
+| cat                 | Show a picture of a cat                                       | `/gif cat`                   |
+| cute                | See some random cute things                                   | `/gif cute`                  |
+| discord meme        | A random Discord-themed meme!                                 | `/gif discordmeme`           |
+| dog                 | Show a picture of a dog                                       | `/gif dog`                   |
+| funny               | Shows a funny image                                           | `/gif funny`                 |
+| meme                | See the top new memes on reddit!                              | `/gif meme`                  |
+| monkey              | Show a picture of a monkey                                    | `/gif monkey`                |
+| nuke                | Nuke a server (100% real)                                     | `/nuke`                      |
 
 
