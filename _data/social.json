@@ -8,5 +8,10 @@
     "name": "Discord",
     "link": "https://discord.gg/EbYwxMVfUA",
     "image": "images/social/discord.svg"
+  },
+  {
+    "name": "Patreon",
+    "link": "https://patreon.com/asraparadise",
+    "image": "images/social/patreon.png"
   }
 ]
