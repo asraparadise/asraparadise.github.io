@@ -1,9 +1,36 @@
 [
   {
-    "title": "Welcoming Community",
-    "description": "The perfect place to make friends and meet new people.",
+    "title": "Global Economy System",
+    "description": "Enhance your server and increase server engagement with tons of currency commands and an inventory system",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Custom Welcome Messages",
+    "description": "Asra lets you design your own welcome messages, that includes a custom welcome card with the user's avatar and name, and welcomes your users for you!",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Giveaways",
+    "description": "Hold giveaways on your Discord server quickly and easily!",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Moderation",
+    "description": "Manage your Discord server with plenty of useful moderation commands.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
@@ -18,37 +45,10 @@
     }
   },
   {
-    "title": "Global Economy system",
-    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
+    "title": "Much more",
+    "description": "Autoroles, AFK Status, Levelling, Logs, Reminders, and much more.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Giveaways",
-    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Moderation",
-    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Custom Welcome Messages",
-    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
       "height": 80
     }
