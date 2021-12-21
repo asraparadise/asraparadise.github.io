@@ -29,8 +29,8 @@ Before many features can be used in your server, you must set them up using the 
 
 Here are the server settings commands:
 
-**Welcome Message**/
-Set the welcome message you would like the bot to send when a new user joins/
+**Welcome Message**<br/>
+Set the welcome message you would like the bot to send when a new user joins<br/>
 `/settings setwelcomemessage [channel] [message] (imagelink)`
 
 **Leave Message**
