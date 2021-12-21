@@ -31,12 +31,12 @@ If none of these work or if Asra is offline, please head over to our [support se
 
 
 ### Logs aren’t working on my server, what do I do?
-Check if the module is disabled by doing ?diagnose [modulename]
-If the module is enabled, check if Dyno can Read Messages and Send Messages in the log channel, as well as Embed Links. To quickly check if Dyno has those permissions, do ?uptime in the channel.
-Lastly, check if Dyno has manage webhooks in the channel and role permissions.
-If none of these work, don’t hesitate to join our support server.
 
-This applies to all logging modules including actionlogs, moderation logs, and automod logs.
+- Check if the feature is disabled in your server by doing `/settings list`
+- If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.
+If none of these work, don’t hesitate to join our [support server](https://asraparadise.github.io/support).
+
+> :information_source: This applies to all logging modules including actionlogs, moderation logs, and automod logs.
 
 
 ### 👨‍💻 How can I request features?
