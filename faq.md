@@ -20,7 +20,7 @@ Asra was created by Disguised#4241 on the and was orginally intended as a bot so
 You can read more about us on our [Team page](https://asraparadise.github.io/team).
 
 
-### Asra is not responding to commands, what do I do?
+## Asra is not responding to commands, what do I do?
 
 If Asra is online, try the following:
 
@@ -30,16 +30,16 @@ If Asra is online, try the following:
 If none of these work or if Asra is offline, please head over to our [support server](https://asraparadise.github.io/support).
 
 
-### Logs aren’t working on my server, what do I do?
+## Logs aren’t working on my server, what do I do?
 
 - Check if the feature is disabled in your server by doing `/settings list`
 - If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.
 If none of these work, don’t hesitate to join our [support server](https://asraparadise.github.io/support).
 
-> :information_source: This applies to all logging modules including actionlogs, moderation logs, and automod logs.
+> ℹ️ This applies to all logging modules including actionlogs, moderation logs, and automod logs.
 
 
-### 👨‍💻 How can I request features?
+## 👨‍💻 How can I request features?
 
 To request a feature for the **bot** use the following command:
 
