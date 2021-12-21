@@ -39,8 +39,8 @@ Set the leave message you would like the bot to send when a user leaves
 
 `/settings setleavemessage [channel] [message]`
 
-**Join Autorole**
-Set a role to be automatically given to any new user that joins
+**Join Autorole**\
+Set a role to be automatically given to any new user that joins\
 `/settings setautorole [role]`
 
 **Moderation Log Channel**
