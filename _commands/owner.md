@@ -30,57 +30,55 @@ Before many features can be used in your server, you must set them up using the 
 Here are the server settings commands:
 
 **Welcome Message**<br/>
-Set the welcome message you would like the bot to send when a new user joins<br/>
+Set the welcome message you would like the bot to send when a new user joins.<br/>
 `/settings setwelcomemessage [channel] [message] (imagelink)`
 
-**Leave Message**
-
-Set the leave message you would like the bot to send when a user leaves
-
+**Leave Message**<br/>
+Set the leave message you would like the bot to send when a user leaves.<br/>
 `/settings setleavemessage [channel] [message]`
 
-**Join Autorole**\
-Set a role to be automatically given to any new user that joins\
+**Join Autorole**<br/>
+Set a role to be automatically given to any new user that joins.<br/>
 `/settings setautorole [role]`
 
-**Moderation Log Channel**
-Set the channel Moderator actions will be logged in.
+**Moderation Log Channel**<br/>
+Set the channel Moderator actions will be logged in.<br/>
 `/settings setmoderationlogchannel [channel]`
 
-**Automod Log Channel**
-Set the channel Automod actions will be logged in.
+**Automod Log Channel**<br/>
+Set the channel Automod actions will be logged in.<br/>
 `/settings setautomodlogchannel [channel]`
 
-**Action Log Channel**
-Set the channel where events such as create or delete channel/role will be logged.
+**Action Log Channel**<br/>
+Set the channel where events such as create or delete channel/role will be logged.<br/>
 `/settings setactionlogchannel [channel]`
 
-**Message Log Channel**
-Set the channel where message events (edit/delete) will be logged.
+**Message Log Channel**<br/>
+Set the channel where message events (edit/delete) will be logged.<br/>
 `/settings setmessagelogchannel [channel]`
 
-**Muted Role**
-Set a role to be given to a muted member
+**Muted Role**<br/>
+Set a role to be given to a muted member.<br/>
 `/settings setmutedrole [role]`
 
-**QOTD**
-Set the qotd channel, the role that can create them and the role to be pinged whenever one is created
+**QOTD**<br/>
+Set the qotd channel, the role that can create them and the role to be pinged whenever one is created.<br/>
 `/settings setupqotd [channel] [role] (pingrole)`
 
-**Staff Warn Role**
-Set the staff roles which should be allowed to warn, view warnings and delete warnings for server members
+**Staff Warn Role**<br/>
+Set the staff roles which should be allowed to warn, view warnings and delete warnings for server members.<br/>
 `/settings setstaffwarnrole [role1] (role2) ...`
 
-**Staff Mute Role**
-Set the staff roles which should be allowed to mute, and unmute server members
+**Staff Mute Role**<br/>
+Set the staff roles which should be allowed to mute, and unmute server members.<br/>
 `/settings setstaffmuterole [role1] (role2) ...`
 
-**Staff Kick Role**
-Set the staff roles which should be allowed to kick server members
+**Staff Kick Role**<br/>
+Set the staff roles which should be allowed to kick server members.<br/>
 `/settings setstaffkickrole [role1] (role2) ...`
 
-**Staff Ban Role**
-Set the staff roles which should be allowed to ban, view all bans and unban server members
+**Staff Ban Role**<br/>
+Set the staff roles which should be allowed to ban, view all bans and unban server members.<br/>
 `/settings setstaffbanrole [role1] (role2) ...`
 
 > **Warning:** Using the settings command requires administrator perms to execute.

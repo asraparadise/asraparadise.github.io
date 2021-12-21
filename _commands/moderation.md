@@ -20,9 +20,9 @@ The Moderation Module houses a range of basic moderation commands to take contro
 Before moderation commands can be used in a server, you must set the roles which are allowed to use the warn, mute, kick and ban commands.
 
 You can do this using the server settings command:
-`/settings setwarnrole`
-`/settings setmuterole`
-`/settings setkickrole`
+`/settings setwarnrole`<br/>
+`/settings setmuterole`<br/>
+`/settings setkickrole`<br/>
 `/settings setbanrole`
 
 > **Warning:** This requires administrator perms to execute.

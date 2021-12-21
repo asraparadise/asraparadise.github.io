@@ -18,7 +18,34 @@
     }
   },
   {
-    "title": "Economy system",
+    "title": "Global Economy system",
+    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Giveaways",
+    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Moderation",
+    "description": "Asra has a full economy system with tons of command to use and items to be collected.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Custom Welcome Messages",
     "description": "Asra has a full economy system with tons of command to use and items to be collected.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",

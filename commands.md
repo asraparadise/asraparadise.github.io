@@ -1,16 +1,16 @@
 ---
 title: Commands
 layout: commands
-description: The Asra Paradise bot is a specially designed custom Discord bot for Asra Paradise which features many commands, games and moderation features. This documentation provides information on each module/command, including the description, usage, and examples. If you need any additional help with the bot, ask in the [Discord server](https://discord.gg/EbYwxMVfUA)!
+description: Asra is a fully customizable, multipurpose bot which features a global economy system, custom welcome and leave messages, moderation, giveaways and so much more.This documentation provides information on each module/command, including the description, usage, and examples.If you need any additional help with Asra, ask in our [Support server](https://asraparadise.github.io/support/)!
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Welcome to the Asra Paradise Bot Wiki!
+# Welcome to the Asra Wiki!
 
-The Asra Paradise bot is a specially designed custom Discord bot for Asra Paradise which features many commands, games and moderation features.
+Asra is a fully customizable, multipurpose bot which features a global economy system, custom welcome and leave messages, moderation, giveaways and so much more.
 
 This documentation provides information on each module/command, including the description, usage, and examples.
 
-If you need any additional help with the bot, ask in the [Discord server](https://discord.gg/EbYwxMVfUA)!
+If you need any additional help with Asra, ask in our [Support server](https://asraparadise.github.io/support/)!
