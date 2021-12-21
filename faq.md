@@ -16,7 +16,8 @@ If you can’t find the answer you’re looking for here or have a feature reque
 
 ## 👋 Who is behind Asra?
 
-Asra was created by Disguised#4241 on the and was orginally intended as a bot solely for the Asra Paradise Community Server which opened on the 18th January 2021.\
+Asra was created by Disguised#4241 on the and was orginally intended as a bot solely for the Asra Paradise Community Server which opened on the 18th January 2021.
+
 You can read more about us on our [Team page](https://asraparadise.github.io/team).
 
 
@@ -26,7 +27,7 @@ If Asra is online, try the following:
 
 - First type `@Asra` and see if the bot responds.
 - Make sure Asra has the Administrator permission.
-- Check whether the command you’re trying to use is enabled by seeing if the response `This command has been disabled` appears or alternatively use `/settings list` to check if the feature has been disabled. If disabled, you can enable them using the command `/toggle command [state] [command]` or `/settings` depending on whether it is a command or feature that has been disabled.\
+- Check whether the command you’re trying to use is enabled by seeing if the response `This command has been disabled` appears or alternatively use `/settings list` to check if the feature has been disabled. If disabled, you can enable them using the command `/toggle command [state] [command]` or `/settings` depending on whether it is a command or feature that has been disabled.
 
 If none of these work or if Asra is offline, please head over to our [support server](https://asraparadise.github.io/support).
 
@@ -34,7 +35,7 @@ If none of these work or if Asra is offline, please head over to our [support se
 ## Logs aren’t working on my server, what do I do?
 
 - Check if the feature is disabled in your server by doing `/settings list`
-- If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.\
+- If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.
 
 If none of these work, don’t hesitate to join our [support server](https://asraparadise.github.io/support).
 

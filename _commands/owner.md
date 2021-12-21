@@ -29,12 +29,14 @@ Before many features can be used in your server, you must set them up using the 
 
 Here are the server settings commands:
 
-**Welcome Message**
-Set the welcome message you would like the bot to send when a new user joins
+**Welcome Message**/
+Set the welcome message you would like the bot to send when a new user joins/
 `/settings setwelcomemessage [channel] [message] (imagelink)`
 
 **Leave Message**
+
 Set the leave message you would like the bot to send when a user leaves
+
 `/settings setleavemessage [channel] [message]`
 
 **Join Autorole**
