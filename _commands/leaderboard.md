@@ -14,8 +14,6 @@ The Leaderboard Module shows the leaderboards for a variety of different things 
 
 | Command     | Description                                                   | Usage                         |
 | ----------- | ------------------------------------------------------------- | ----------------------------- |
-| invites     | Shows how many invites you have                               | `a!invites (user)`            |
-| messages    | Shows how many messages you have sent                         | `a!messages (user)`           |
-| votes       | Shows how many times you have voted                           | `a!votes (user)`              |
-| rank        | Displays your rank card                                       | `a!rank (user)`               |
-| leaderboard | View a variety of leaderboards                                | `a!lb (category)`             |
+| leaderboard | View a variety of leaderboards                                | `/lb [category]`              |
+| profile     | Show info about a user and message breakdown                  | `/profile (user)`             |
+| user        | Show specific stats about a user such as messages, invites, votes etc | `/user [category] (user)` |

@@ -4,7 +4,7 @@ date: 2021-08-25T15:14:39+10:00
 featured: false
 description: The Auto-Moderator will automatically moderate the text channels in Asra Paradise. It includes a number of different modules including a word blacklist, mention spam and links/server invite detector.
 show: false
-weight: 11
+weight: 13
 layout: command
 ---
 

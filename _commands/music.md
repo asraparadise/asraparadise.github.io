@@ -12,7 +12,4 @@ The Music Module has commands related to music such as a lyrics finder and a com
 
 ## Commands
 
-| Command      | Description                                                   | Usage                         |
-| ------------ | ------------------------------------------------------------- | ----------------------------- |
-| lyrics       | Get the lyrics of a song                                      | `a!lyrics [song name]`        |
-| current song | Info on the song you are currently listening to on Spotify    | `a!nowplaying`                |
+**No commands currently**

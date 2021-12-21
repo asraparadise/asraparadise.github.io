@@ -5,45 +5,46 @@ description: Asra Paradise is an extremely friendly and fun, community discord s
 bodyClass: page-faq
 ---
 
-## 👋 What is Asra Paradise?
+# Frequently Asked Questions
 
-**Asra Paradise** is an extremely friendly and fun, social discord server with active voice and text channels.
+Here you can find some of the most frequently asked questions from our support channels.
 
-Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
+If you don’t know how to use a command, you can run `/help (commandname)` and Asra will respond with info about that command. For usage, see the commands list on the Asra website.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqr_4MK5bZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you can’t find the answer you’re looking for here or have a feature request, join us in the [Asra Support Server](https://asraparadise.github.io/support) and ask!
 
-## 👋 Who is behind Asra Paradise?
 
-Asra Paradise was opened on the 18th January 2021 by Disguised#4241.
-You can read more about us on our [Team page](https://asraparadise.github.io/team). 
+## 👋 Who is behind Asra?
 
-## 📈 How do I gain xp?
+Asra was created by Disguised#4241 on the and was orginally intended as a bot solely for the Asra Paradise Community Server which opened on the 18th January 2021.
+You can read more about us on our [Team page](https://asraparadise.github.io/team).
 
-By having normal conversation in the chats. Over time, as you talk and get to know the community you will gain xp. The more you get to know us, the more xp you get. The more xp you get, the higher level you become! 
 
-## 🖼️ What level do I need to be to post images?
+### Asra is not responding to commands, what do I do?
 
-You need to be Amateur, level 10, to post gifs and Skilled, level 20, to post images.
+If Asra is online, try the following:
 
-## 💼 How can I become a mod?
+- First type `@Asra` and see if the bot responds.
+- Make sure Asra has the Administrator permission.
+- Check whether the command you’re trying to use is enabled by seeing if the response `This command has been disabled` appears or alternatively use `/settings list` to check if the feature has been disabled. If disabled, you can enable them using the command `/toggle command [state] [command]` or `/settings` depending on whether it is a command or feature that has been disabled.
+If none of these work or if Asra is offline, please head over to our [support server](https://asraparadise.github.io/support).
 
-By clicking the link on the [Team page](https://asraparadise.github.io/team) which will take you to the staff applications for Asra Paradise.
 
-## 📢 Where can I show off my server?
+### Logs aren’t working on my server, what do I do?
+Check if the module is disabled by doing ?diagnose [modulename]
+If the module is enabled, check if Dyno can Read Messages and Send Messages in the log channel, as well as Embed Links. To quickly check if Dyno has those permissions, do ?uptime in the channel.
+Lastly, check if Dyno has manage webhooks in the channel and role permissions.
+If none of these work, don’t hesitate to join our support server.
 
-In a discord that allows advertisements. Asra Paradise is not one of them.
+This applies to all logging modules including actionlogs, moderation logs, and automod logs.
 
-## 🔨 I think I am unrightfully banned. Where do I appeal?
 
-Contact [@Disguised#4241](https://discordapp.com/users/728625544547008522) for more information and to appeal.
+### 👨‍💻 How can I request features?
 
-## 👨‍💻 How can I request features?
+To request a feature for the **bot** use the following command:
 
-To request a feature for the **bot** use the following command in Asra:
+`/botsuggest [suggestion]`
 
-`a!botsuggest [suggestion]`
+To request a feature for the **community server** use the following command:
 
-To request a feature for the **server** use the following command in Asra:
-
-`a!suggest [suggestion]`
+`/suggest [suggestion]`

@@ -12,15 +12,17 @@ The Misc Module has all the commands that don't fit another category. Main comma
 
 ## Commands
 
-| Command   | Description                                                   | Usage                         |
-| --------- | ------------------------------------------------------------- | ----------------------------- |
-| afk       | Set yourself as AFK                                           | `a!afk (reason)`              |
-| apply     | Link to apply for staff                                       | `/apply`                      |
-| avatar    | Displays the user's avatar                                    | `/av (user)`                  |
-| enlarge   | Enlarge an emoji                                              | `a!enlarge :emoji:`           |
-| reminder  | Helps remind you something                                    | `a!remind [time] [reminder]`  |
-| snipe     | Retrieve the last 10 deleted messages in the current channel  | `/snipe`                      |
-| time text | Send the message after a certain amount of time as the user   | `a!timetext [time] [message]` |
-| vote      | Link to vote for Asra Paradise                                | `/vote`                       |
-| weather   | Displays the weather                                          | `a!weather [country/city]`    |
-| youtube   | Link to Asra Paradise's youtube channel                       | `a!youtube`                   |
+| Command     | Description                                                   | Usage                         |
+| ----------- | ------------------------------------------------------------- | ----------------------------- |
+| afk         | Set yourself as AFK                                           | `/afk set (message)`          |
+| apply       | Link and info on how to apply for staff                       | `/apply`                      |
+| avatar      | Shows your or another user's avatar                           | `/av (user)`                  |
+| invite      | Invite Asra or recieve a link to its support server           | `/invite`                     |
+| premium     | Get information about Asra Premium                            | `/premium`                    |
+| qotd        | Post a new QOTD in the QOTD channel                           | `/qotd [question]`            |
+| redeem      | Redeem a code for awesome prizes                              | `/redeem [code]`              |
+| remind      | Sends a reminder to you after a set time                      | `/remind [time] [reminder]`   |
+| server icon | Display's the server icon                                     | `/servericon`                 |
+| snipe       | Retrieves the last 10 deleted messages in the current channel | `/snipe`                      |
+| vote        | Link to vote for Asra Paradise                                | `/vote`                       |
+| weather     | Displays the weather                                          | `/weather [location]`         |
