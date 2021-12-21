@@ -6,7 +6,7 @@ main:
     url: "/faq/"
     weight: 3
   - name: "Blog"
-    url: "/blog/"
+    url: "/blog.html/"
     weight: 4
   - name: "Support"
     url: "/support/"
