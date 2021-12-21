@@ -5,7 +5,7 @@ description: Asra Paradise is an extremely friendly and fun, community discord s
 bodyClass: page-faq
 ---
 
-# Frequently Asked Questions
+# General Frequently Asked Questions
 
 Here you can find some of the most frequently asked questions from our support channels.
 
@@ -36,7 +36,13 @@ If none of these work or if Asra is offline, please head over to our [support se
 - If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.
 If none of these work, don’t hesitate to join our [support server](https://asraparadise.github.io/support).
 
-> ℹ️ This applies to all logging modules including actionlogs, moderation logs, and automod logs.
+> ℹ️ **Note:** This applies to all logging modules including actionlogs, moderation logs, and automod logs.
+
+
+## Asra won’t give roles or autoroles, how can I fix this?
+For Asra to be able to manage or moderate any role, it has to be higher then the role you want it to give or remove in the role settings screen of your discord. Otherwise, Asra will not be able to manage users who have the role.
+
+Drag the role above any roles you want it to manage, as shown above. To learn more about role hierarchy, [click here](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
 
 
 ## 👨‍💻 How can I request features?
@@ -48,3 +54,26 @@ To request a feature for the **bot** use the following command:
 To request a feature for the **community server** use the following command:
 
 `/suggest [suggestion]`
+
+
+## How can I get Asra premium? 
+You can get Asra premium [here](https://www.patreon.com/asraparadise)!
+
+# Moderation Frequently Asked Questions
+
+## Why can users send messages when they have the muted role?
+This is most likely due to channel permissions. Configure your channel’s send message perms to be neutral for all roles (which includes everyone role) and deny it for the muted role.
+
+
+## Why can’t I purge messages older than 14 days in a channel?
+Discord doesn’t allow bots to purge (bulk delete) messages that are older than 14 days old.
+
+If you would like to completely purge a channel, you can right click on the channel and select “Clone Channel”. This will create a new channel with the exact same settings as the old. You can then delete or archive the old channel.
+
+
+## How do I unban someone?
+You need to use the user's ID to unban them since they won't be in the server. Use the command `/unban [userID] [reason]`
+
+To get a user’s ID, right click their profile anywhere on Discord, then click Copy ID.
+
+> ℹ️ **Note:** If you don’t see the copy ID option, make sure you have developer mode on. You can find it in your User Settings -> Advanced.
