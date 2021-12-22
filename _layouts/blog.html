@@ -2,23 +2,6 @@
 layout: default
 bodyClass: "page-blog"
 ---
-<!--<h1>Latest Posts</h1>
-
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-    </li>
-    {% endfor %}
-</ul>
-
-<div class="flex justify-center">
-    <div class="flex flex-col pb-16 space-y-6 items-center border-b border-light-500 dark:border-dark-100">
-        <div class="text-6xl font-bold font-montserrat text-dark-200 dark:text-white">BLOG POSTS</div>
-        <div class="max-w-2xl text-center text-lg text-gray-400 mx-16">Blogs are written by the developers and are community focused, news and updates regarding Asra and related topics.</div>
-    </div>
-</div>-->
 
 <div class="intro">
     <div class="container">
@@ -37,14 +20,39 @@ bodyClass: "page-blog"
 
 <div class="container pt-6 pb-6">
     <div class="row">
-        {% for post in site.posts %}
-        <div class="col-12 col-md-6 mb-3">
+        {% assign recent_posts = site.posts | where: "recent", true %}
+        {% for post in recent_posts %}
+        <div class="col-12 col-md-6 mb-2">
+            <div class="post post-summary post-summary-large">
+                {% if post.image %}
+                <div class="post-image">
+                    <img width="90" height="90" alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="post-meta">
+                    <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                    <p class="post-description">{{ post.author }}</p>
+                    <p class="post-description">{{ post.date }}</p>
+                </div>
+                <div class="post-content">{{ post.description }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row pt-6 pb-6">
+        {% assign posts = site.posts | where: "recent", empty %}
+        {% for post in posts %}
+        <div class="col-12 col-md-4 mb-3">
             <div class="post post-summary">
-                <div class="post-content">
-                    <h2 class="post-title">
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                    </h2>
-                    <p>{{ post.content | markdownify | strip_html | truncate: 100 }}</p>
+                {% if post.image %}
+                <div class="post-image">
+                    <img width="60" height="60" alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="post-meta">
+                    <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                    <p class="post-description">{{ post.author }}</p>
+                    <p class="post-description">{{ post.date }}</p>
                 </div>
             </div>
         </div>

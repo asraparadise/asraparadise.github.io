@@ -1,9 +1,10 @@
 ---
 layout: post
-author: Disguised
+author: Written by Disguised
+date: On December 14, 2021
+recent: true
+description: A rewrite of the bot, going public and an inventory system - What more could you want from your favourite bot Asra?
 ---
-# December Update
-
 ### Slash command support
 Asra has recently migrated to slash commands and with it has brought a whole host of new commands and features as well as better uptime. Find all new commands using `/help`
 
@@ -34,4 +35,4 @@ To learn more about how to redeem premium, visit our [Patreon](https://www.patre
 Any suggestions for features or commands for the bot are welcome and can be submitted using `/botsuggest` or in the [Support Server](https://asraparadise.github.io/support).
 
 
-Thank you for your support and for choosing to have Asra in your server.
+**Thank you for your support and for choosing to have Asra in your server.**

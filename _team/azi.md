@@ -5,7 +5,7 @@ draft: false
 description: Meet the team! Our staff team are here to help and work hard to make sure your experience in Asra is as amazing as possible.
 image: "images/team/azi.png"
 jobtitle: "Admin"
-promoted: true
+promoted: false
 weight: 8
 layout: team
 ---
