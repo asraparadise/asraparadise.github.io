@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Written by Disguised
-date: On December 14, 2021
+author: Disguised
+date: December 14, 2021
 recent: true
 description: A rewrite of the bot, going public and an inventory system - What more could you want from your favourite bot Asra?
 ---

@@ -31,8 +31,8 @@ bodyClass: "page-blog"
                 {% endif %}
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-                    <p class="post-description">{{ post.author }}</p>
-                    <p class="post-description">{{ post.date | date: "%b %d, %y" }}</p>
+                    <p class="post-description">Written by {{ post.author }}</p>
+                    <p class="post-description">On {{ post.date | date: "%d %B %Y" }}</p>
                 </div>
                 <div class="post-content">{{ post.description }}</div>
             </div>
@@ -51,8 +51,8 @@ bodyClass: "page-blog"
                 {% endif %}
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-                    <p class="post-description">{{ post.author }}</p>
-                    <p class="post-description">{{ post.date | date: "%b %d, %y" }}</p>
+                    <p class="post-description">Written by {{ post.author }}</p>
+                    <p class="post-description">On {{ post.date | date: "%d %B %Y" }}</p>
                 </div>
             </div>
         </div>
