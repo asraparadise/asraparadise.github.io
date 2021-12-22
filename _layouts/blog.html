@@ -32,7 +32,14 @@ bodyClass: "page-blog"
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     <p class="post-description">{{ post.author }}</p>
-                    <p class="post-description">{{ post.date }}</p>
+                    {% assign day = post.date | date: "%-d"  %}
+                    {% case day %}
+                    {% when '1' or '21' or '31' %}{{ day }}st
+                    {% when '2' or '22' %}{{ day }}nd
+                    {% when '3' or '23' %}{{ day }}rd
+                    {% else %}{{ day }}th
+                    {% endcase %}
+                    <p class="post-description">{{ post.date | date: "%B, %Y" }}</p>
                 </div>
                 <div class="post-content">{{ post.description }}</div>
             </div>
@@ -52,7 +59,14 @@ bodyClass: "page-blog"
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     <p class="post-description">{{ post.author }}</p>
-                    <p class="post-description">{{ post.date }}</p>
+                    {% assign day = post.date | date: "%-d"  %}
+                    {% case day %}
+                    {% when '1' or '21' or '31' %}{{ day }}st
+                    {% when '2' or '22' %}{{ day }}nd
+                    {% when '3' or '23' %}{{ day }}rd
+                    {% else %}{{ day }}th
+                    {% endcase %}
+                    <p class="post-description">{{ post.date | date: "%B, %Y" }}</p>
                 </div>
             </div>
         </div>
