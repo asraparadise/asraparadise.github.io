@@ -31,7 +31,7 @@ Whilst Asra is primarily a free bot, we have some premium only features to help 
 To learn more about how to redeem premium, visit our [Patreon](https://www.patreon.com/asraparadise).
 
 ### Suggestions for Features
-Any suggestions for features or commands for the bot are welcome and can be submitted using `/botsuggest` or in the [Support Server](https://discord.com/invite/qwCzwBvRn9).
+Any suggestions for features or commands for the bot are welcome and can be submitted using `/botsuggest` or in the [Support Server](https://asraparadise.github.io/support).
 
 
 Thank you for your support and for choosing to have Asra in your server.
