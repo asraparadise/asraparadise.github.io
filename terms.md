@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 layout: page
-description: Asra Paradise is an extremely friendly and fun, community discord server with active voice and text channels. Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
+description: Asra is a fully customizable, multipurpose discord bot for your Discord server. With a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!
 bodyClass: page-terms
 ---
 
@@ -57,5 +57,5 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
 
 ## Contact us
-If you have any questions about our Terms, please contact us by email: [disguisedbusiness@gmail.com](mailto:disguisedbusiness@gmail.com).
+If you have any questions about our Terms, please contact us by email: [asraparadise21@gmail.com](mailto:asraparadise21@gmail.com).
 

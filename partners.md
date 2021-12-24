@@ -1,7 +1,7 @@
 ---
 title: Partners
 layout: page
-description: Asra Paradise is Officially Partnered With Vyrix, the fully customizable server moderation Discord bot. Server management just got a whole lot easier.
+description: Asra is a fully customizable, multipurpose discord bot for your Discord server. With a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!
 bodyClass: page-partners
 ---
 

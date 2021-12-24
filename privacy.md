@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
-description: Asra Paradise is an extremely friendly and fun, community discord server with active voice and text channels. Our mission is to make an amazing community server and provide the perfect place to make friends and meet new people.
+description: Asra is a fully customizable, multipurpose discord bot for your Discord server. With a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!
 bodyClass: page-privacy
 ---
 
@@ -71,7 +71,7 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-- **Session Cookies.** We use Session Cookies to keep you logged in to Discord on our site. We also use Google Analytics, which uses cookies for general statistical data to help us learn and grow about how to make a better user experience.
+- **Session Cookies.** We use Google Analytics, which uses cookies for general statistical data to help us learn and grow about how to make a better user experience.
 
 ## Use of Data
 Asra Paradise uses the collected data for various purposes:
@@ -180,5 +180,5 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Contact us
-If you have any questions about our Privacy Policy, please contact us by email: [disguisedbusiness@gmail.com](mailto:disguisedbusiness@gmail.com).
+If you have any questions about our Privacy Policy, please contact us by email: [asraparadise21@gmail.com](mailto:asraparadise21@gmail.com).
 

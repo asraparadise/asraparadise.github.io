@@ -26,33 +26,33 @@
 
    </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/support/</loc>
+    <loc>https://asraparadise.github.io/blog/</loc>
 
-   </url>
-
-   <url>
-
-      <loc>https://asraparadise.github.io/commands/anime/</loc>
-
-   </url>
+  </url>
 
    <url>
 
-      <loc>https://asraparadise.github.io/commands/donation/</loc>
+      <loc>https://asraparadise.github.io/commands/interact/</loc>
 
    </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/commands/economy/</loc>
+    <loc>https://asraparadise.github.io/commands/economy/</loc>
 
-   </url>
-
+  </url>
+  
    <url>
 
       <loc>https://asraparadise.github.io/commands/fun/</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://asraparadise.github.io/commands/games/</loc>
 
    </url>
 
@@ -88,13 +88,19 @@
 
    <url>
 
-      <loc>https://asraparadise.github.io/commands/automoderator/</loc>
+      <loc>https://asraparadise.github.io/commands/owner/</loc>
 
    </url>
 
    <url>
 
       <loc>https://asraparadise.github.io/commands/suggestions/</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://asraparadise.github.io/commands/donation/</loc>
 
    </url>
 
