@@ -39,7 +39,7 @@ bodyClass: "page-blog"
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign posts = site.posts | where: "recent", empty %}
+        {% assign posts = site.posts | where: "recent", false %}
         {% for post in posts %}
         <div class="col-12 col-md-4 mb-3">
             <div class="post post-summary">
