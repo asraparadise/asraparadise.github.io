@@ -1,5 +1,6 @@
 ---
-title: FAQ
+title: FAQ - Asra
+header: FAQ
 layout: page
 description: Asra is a fully customizable, multipurpose discord bot for your Discord server. With a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!
 bodyClass: page-faq
