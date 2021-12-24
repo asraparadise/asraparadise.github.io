@@ -1,5 +1,6 @@
 ---
-title: Blog
+title: Blog Posts - Asra
+header: Blog
 layout: blog
 description: Blogs are written by the developers and are community focused, news and updates regarding Asra and related topics.
 ---

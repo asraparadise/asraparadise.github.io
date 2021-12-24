@@ -11,7 +11,7 @@ bodyClass: "page-commands"
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+        <img alt={{ page.header }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
       </div>
       {% endif %}
     </div>
@@ -27,7 +27,7 @@ bodyClass: "page-commands"
             <div class="command command-summary">
                 <div class="command-content">
                     <h2 class="command-title">
-                        <a href="{{ command.url | relative_url }}">{{ command.title }}</a>
+                        <a href="{{ command.url | relative_url }}">{{ command.header }}</a>
                     </h2>
                     <p>{{ command.content | markdownify | strip_html | truncate: 100 }}</p>
                 </div>

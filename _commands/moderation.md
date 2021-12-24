@@ -1,5 +1,6 @@
 ---
-title: "Moderation"
+title: "Moderation Commands - Asra"
+header: "Moderation"
 date: 2021-08-25T15:14:39+10:00
 featured: false
 description: The Moderation Module houses a range of basic moderation commands to take control of the server.

@@ -1,5 +1,6 @@
 ---
-title: "Economy"
+title: "Economy Commands - Asra"
+header: "Economy"
 date: 2021-08-25T15:15:34+10:00
 featured: true
 description: The Economy Module provides a range of fun commands to earn Asra Coins which can be used to buy in-server items such as colour roles and more.‌

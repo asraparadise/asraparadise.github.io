@@ -1,5 +1,6 @@
 ---
-title: Team
+title: Staff Team - Asra
+header: Staff Team
 layout: teams
 description: Our staff team are here to help and work hard to make sure your experience using Asra is as amazing as possible.
 permalink: "/team/"

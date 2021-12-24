@@ -1,7 +1,8 @@
 ---
-title: Terms of Service
+title: Terms of Service - Asra
+header: Terms of Service
 layout: page
-description: Asra is a fully customizable, multipurpose discord bot for your Discord server. With a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!
+description: Asra is a fully customizable, multipurpose Discord bot with a global economy system, custom welcome messages, giveaways, moderation, tickets, and much more!
 bodyClass: page-terms
 ---
 

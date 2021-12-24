@@ -1,5 +1,6 @@
 ---
-title: "Disguised"
+title: Disguised - Staff Team - Asra
+header: Disguised
 date: 2021-08-25T10:47:58+10:00
 draft: false
 description: Meet the team who made Asra! Hey! I'm Disguised and the owner of Asra as well as the Asra Paradise community server.

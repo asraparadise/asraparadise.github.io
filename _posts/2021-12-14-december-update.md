@@ -1,4 +1,6 @@
 ---
+title: December Update - Asra
+header: December Update
 layout: post
 author: Disguised
 date: December 14, 2021
@@ -24,7 +26,7 @@ For a LIMITED TIME ONLY, using ANY slash commands has a 1 in 200 chance of givin
 ### Becoming a Public Bot
 I've made the decision recently to open up the Asra bot to the public so everyone can now enjoy all the features it brings to the Asra Paradise community server themselves.<br/>
 Asra is a fully customizable, multipurpose discord bot with a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!<br/>
-Please support us and try the bot out in your server by clicking [here](https://asraparadise.github.io/invite) to invite the bot!
+Please support us and try the bot out in your server by clicking [here](https://discord.com/api/oauth2/authorize?client_id=751171098971865119&permissions=8&scope=applications.commands%20bot) to invite the bot!
 
 ### Premium
 I've made the decision to introduce Asra Premium which is the paid version of Asra.<br/>
@@ -32,7 +34,7 @@ Whilst Asra is primarily a free bot, we have some premium only features to help 
 To learn more about how to redeem premium, visit our [Patreon](https://www.patreon.com/asraparadise).
 
 ### Suggestions for Features
-Any suggestions for features or commands for the bot are welcome and can be submitted using `/botsuggest` or in the [Support Server](https://asraparadise.github.io/support).
+Any suggestions for features or commands for the bot are welcome and can be submitted using `/botsuggest` or in the [Support Server](https://discord.com/invite/qwCzwBvRn9).
 
 
 **Thank you for your support and for choosing to have Asra in your server.**

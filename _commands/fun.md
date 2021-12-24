@@ -1,5 +1,6 @@
 ---
-title: "Fun"
+title: "Fun Commands - Asra"
+header: "Fun"
 date: 2021-08-25T12:33:46+10:00
 featured: true
 description: The Fun Module provides a range of fun commands to have fun using while in Asra.

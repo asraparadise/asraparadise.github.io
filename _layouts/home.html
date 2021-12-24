@@ -14,7 +14,7 @@ bodyClass: "page-home"
             </div>
             {% if page.intro_image %}
             <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-                <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+                <img alt="{{ page.header }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
             </div>
             {% endif %}
         </div>
@@ -30,7 +30,7 @@ bodyClass: "page-home"
                 <div class="command command-summary">
                     <div class="command-content">
                         <h2 class="command-title">
-                            <a href="{{ command.url | relative_url }}">{{ command.title }}</a>
+                            <a href="{{ command.url | relative_url }}">{{ command.header }}</a>
                         </h2>
                         <p>{{ command.content | markdownify | strip_html | truncate: 100 }}</p>
                     </div>
@@ -46,12 +46,11 @@ bodyClass: "page-home"
         </div>
     </div>
 </div>-->
-
 <!--<div class="strip">
     <div class="container pt-6 pb-6 pb-md-10">
         <div class="row justify-content-center">
             <div class="col-auto">
-                <a class="button button-primary" href="{{ "https://asraparadise.github.io/invite" }}">INVITE NOW</a>
+                <a class="button button-primary" href="{{ "https://discord.com/api/oauth2/authorize?client_id=751171098971865119&permissions=8&scope=applications.commands%20bot" }}">INVITE NOW</a>
             </div>
         </div>
     </div>
@@ -60,7 +59,7 @@ bodyClass: "page-home"
     <div class="container pt-6 pb-6 pb-md-10">
         <div class="row justify-content-center">
             <div class="wrapper">
-                <a class="cta" href="https://asraparadise.github.io/invite">
+                <a class="cta" href="https://discord.com/api/oauth2/authorize?client_id=751171098971865119&permissions=8&scope=applications.commands%20bot">
                     <span>INVITE NOW</span>
                     <span>
                         <svg width="66px" height="43px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

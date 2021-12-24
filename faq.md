@@ -11,7 +11,7 @@ Here you can find some of the most frequently asked questions from our support c
 
 If you don’t know how to use a command, you can run `/help (commandname)` and Asra will respond with info about that command. For usage, see the commands list on the Asra website.
 
-If you can’t find the answer you’re looking for here or have a feature request, join us in the [Asra Support Server](https://asraparadise.github.io/support) and ask!
+If you can’t find the answer you’re looking for here or have a feature request, join us in the [Asra Support Server](https://discord.com/invite/qwCzwBvRn9) and ask!
 
 
 ## 👋 Who is behind Asra?
@@ -29,7 +29,7 @@ If Asra is online, try the following:
 - Make sure Asra has the Administrator permission.
 - Check whether the command you’re trying to use is enabled by seeing if the response `This command has been disabled` appears or alternatively use `/settings list` to check if the feature has been disabled. If disabled, you can enable them using the command `/toggle command [state] [command]` or `/settings` depending on whether it is a command or feature that has been disabled.
 
-If none of these work or if Asra is offline, please head over to our [support server](https://asraparadise.github.io/support).
+If none of these work or if Asra is offline, please head over to our [support server](https://discord.com/invite/qwCzwBvRn9).
 
 
 ## Logs aren’t working on my server, what do I do?
@@ -37,7 +37,7 @@ If none of these work or if Asra is offline, please head over to our [support se
 - Check if the feature is disabled in your server by doing `/settings list`
 - If the feature is enabled and a channel has been set, check if Asra can Read Messages and Send Messages in the log channel, as well as Embed Links.
 
-If none of these work, don’t hesitate to join our [support server](https://asraparadise.github.io/support).
+If none of these work, don’t hesitate to join our [support server](https://discord.com/invite/qwCzwBvRn9).
 
 > ℹ️ **Note:** This applies to all logging modules including actionlogs, moderation logs, and automod logs.
 

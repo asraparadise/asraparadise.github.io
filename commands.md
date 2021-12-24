@@ -13,4 +13,4 @@ Asra is a fully customizable, multipurpose bot which features a global economy s
 
 This documentation provides information on each module/command, including the description, usage, and examples.
 
-If you need any additional help with Asra, ask in our [Support server](https://asraparadise.github.io/support/)!
+If you need any additional help with Asra, ask in our [Support server](https://discord.com/invite/qwCzwBvRn9)!

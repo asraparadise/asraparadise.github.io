@@ -1,5 +1,6 @@
 ---
-title: "Suggestions"
+title: "Suggestion Commands - Asra"
+header: "Suggestions"
 date: 2021-08-25T15:14:39+10:00
 featured: false
 description: We want your feedback! Request features for the bot or the community server with these commands.

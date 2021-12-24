@@ -9,7 +9,7 @@ main:
     url: "/blog/"
     weight: 4
   - name: "Support"
-    url: "/support/"
+    url: "https://discord.com/invite/qwCzwBvRn9"
     weight: 5
 
 footer:
