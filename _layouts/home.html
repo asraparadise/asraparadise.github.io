@@ -21,31 +21,6 @@ bodyClass: "page-home"
     </div>
 </div>
 
-<!--<div class="strip">
-    <div class="container pt-6 pb-6 pb-md-10">
-        <div class="row justify-content-start">
-            {% for command in site.commands %}
-            {% if command.featured %}
-            <div class="col-12 col-md-4 mb-1">
-                <div class="command command-summary">
-                    <div class="command-content">
-                        <h2 class="command-title">
-                            <a href="{{ command.url | relative_url }}">{{ command.header }}</a>
-                        </h2>
-                        <p>{{ command.content | markdownify | strip_html | truncate: 100 }}</p>
-                    </div>
-                </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-auto">
-                <a class="button button-primary" href="{{ "commands" | relative_url }}">View All Commands</a>
-            </div>
-        </div>
-    </div>
-</div>-->
 <div class="strip">
     <div class="container pt-6 pb-6 pb-md-10">
         <div class="row justify-content-center">
