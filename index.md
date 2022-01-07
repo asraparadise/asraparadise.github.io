@@ -6,7 +6,7 @@ description: Asra is a fully customizable, multipurpose Discord bot with a globa
 intro_image: "images/illustrations/AsraParadiseBanner.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Asra
