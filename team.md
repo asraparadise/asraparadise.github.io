@@ -15,5 +15,5 @@ Our staff team are here to help and work hard to make sure your experience in As
 
 ✅ **Join us, we're hiring!**
 
-[Apply now](https://forms.gle/A6BL4zZXwR9rNnsJA)
+[Apply now](https://asraparadise.github.io/apply/)
 
