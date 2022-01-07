@@ -1,0 +1,88 @@
+﻿---
+layout: default
+bodyClass: "page-apply"
+---
+
+<div class="intro">
+    <div class="container">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+                {{ content }}
+            </div>
+            {% if page.intro_image %}
+            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+                <img alt={{ page.header }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdjSy2rflDvxkkrpq05ZcSpscXGJtZBFNEIdpCycGEaMUztpw/formResponse" method="post" onsubmit="return alert('Thank you.')"> <!--onsubmit="return ValidateForm(this);">-->
+    <!--<script type="text/javascript">
+        function ValidateForm(frm) {
+            if (frm.entry.1745682583.value == "") { alert('First name is required.'); frm.First_Name.focus(); return false; }
+            if (frm.Last_Name.value == "") { alert('Last name is required.'); frm.Last_Name.focus(); return false; }
+            if (frm.Email_Address.value == "") { alert('Email address is required.'); frm.Email_Address.focus(); return false; }
+            if (frm.Email_Address.value.indexOf("@") < 1 || frm.Email_Address.value.indexOf(".") < 1) { alert('Please enter a valid email address.'); frm.Email_Address.focus(); return false; }
+            if (frm.Position.value == "") { alert('Position is required.'); frm.Position.focus(); return false; }
+            if (frm.Phone.value == "") { alert('Phone is required.'); frm.Phone.focus(); return false; }
+
+            return true;
+        }
+    </script>-->
+
+    <table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+            <td style="width: 50%">
+                <label for="Username"><b>Username *</b></label><br />
+                <input type="text" placeholder="Username*" name="entry.1745682583" maxlength="50" style="width:100%;max-width: 260px" required />
+            </td>
+            <td style="width: 50%">
+                <label for="Tag"><b>Tag *</b></label><br />
+                <input type="text" placeholder="Tag*" name="entry.1938410870" maxlength="50" style="width:100%;max-width: 260px" required />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Email"><b>Email *</b></label><br />
+                <input type="email" placeholder="Email*" name="entry.230207329" maxlength="100" style="width:100%;max-width: 535px" required />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Timezone"><b>Timezone *</b></label><br />
+                <input type="text" placeholder="Timezone*" name="entry.573105910" maxlength="50" style="width:100%;max-width: 535px" required />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Hours"><b>Hours available per day *</b></label><br />
+                <input type="text" placeholder="Hours available per day*" name="entry.889652057" maxlength="100" style="width:100%;max-width: 535px" required />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Rules"><b>What would you do if someone broke one of the server rules? *</b></label><br />
+                <textarea rows="5" placeholder="What would you do if someone broke one of the server rules?*" name="entry.429451450" style="width:100%;max-width: 535px" required></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Experience"><b>Previous Experience</b></label><br />
+                <textarea rows="5" placeholder="Please list any experience you have with discord staffing including a brief description of the nature of the server, your position and what your responsibilities are/were." name="entry.124616394" style="width:100%;max-width: 535px"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="Comments"><b>Comments / Questions</b></label><br />
+                <textarea rows="5" placeholder="Comments / Questions" name="entry.18126311754" style="width:100%;max-width: 535px"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;">
+                <button type="submit">Send</button>
+            </td>
+        </tr>
+    </table>
+</form>
