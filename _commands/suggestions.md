@@ -23,11 +23,8 @@ The Suggestion Module houses commands to suggest features for the server the bot
 | reject               | Reject a suggestion                                           | `/reject [messageID] [response]`       |
 
 
+## 👨‍💻 We want your feedback!
 
-We want your feedback! Request features for the bot with the following command.
-
-## 👨‍💻 How can I request features?
-
-To request a feature for the bot use the following command:
+Request features for the bot with the following command.
 
 `/botsuggest [suggestion]`
