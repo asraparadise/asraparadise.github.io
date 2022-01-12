@@ -30,6 +30,11 @@ Before many features can be used in your server, you must set them up using the 
 
 Here are the server settings commands:
 
+**List All Settings**<br/>
+Lists all of the current settings for your server.<br/>
+`/settings list`<br/>
+
+
 **Welcome Message**<br/>
 Set the welcome message you would like the bot to send when a new user joins.<br/>
 `/settings setwelcomemessage [channel] [message] (imagelink)`
@@ -41,6 +46,10 @@ Set the leave message you would like the bot to send when a user leaves.<br/>
 **Join Autorole**<br/>
 Set a role to be automatically given to any new user that joins.<br/>
 `/settings setautorole [role]`
+
+**Suggestions**<br/>
+Set the channel Suggestions for your server from your members will be sent in.<br/>
+`/settings setsuggestionchannel [channel]`
 
 **Moderation Log Channel**<br/>
 Set the channel Moderator actions will be logged in.<br/>
