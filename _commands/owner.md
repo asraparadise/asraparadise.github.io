@@ -49,7 +49,7 @@ Set a role to be automatically given to any new user that joins.<br/>
 
 **Suggestions**<br/>
 Set the channel Suggestions for your server from your members will be sent in.<br/>
-`/settings setsuggestionchannel [channel]`
+`/settings setupsuggestions [channel] [role]`
 
 **Moderation Log Channel**<br/>
 Set the channel Moderator actions will be logged in.<br/>
