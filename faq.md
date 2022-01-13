@@ -51,13 +51,10 @@ Drag the role above any roles you want it to manage, as shown above. To learn mo
 
 ## 👨‍💻 How can I request features?
 
-To request a feature for the **bot** use the following command:
+Request features or commands for the bot with the following command:
 
 `/botsuggest [suggestion]`
 
-To request a feature for the **community server** use the following command:
-
-`/suggest [suggestion]`
 
 
 ## How can I get Asra premium? 
