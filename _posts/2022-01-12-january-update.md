@@ -16,15 +16,15 @@ For more info, click [here](https://asraparadise.github.io/commands/owner/#serve
 
 Features and Commands can also be toggled on or off using  `/toggle [state] [setting]` or `/toggle [state] [command]`
 
-__**Configurable Features**__
-•    Welcome Card and Messages
-•    Leave Messages
-•    QOTD
-•    Suggestions
-•    Auto Roles
-•    Muted Role
-•    Log Channels
-•    Warn, Mute, Kick and Ban Roles
+#### Configurable Features
+- Welcome Card and Messages
+- Leave Messages
+- QOTD
+- Suggestions
+- Auto Roles
+- Muted Role
+- Log Channels
+- Warn, Mute, Kick and Ban Roles
 and much more to come...
 
 
