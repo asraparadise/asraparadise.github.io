@@ -25,6 +25,7 @@ Features and Commands can also be toggled on or off using  `/toggle [state] [set
 - Muted Role
 - Log Channels
 - Warn, Mute, Kick and Ban Roles
+
 and much more to come...
 
 
