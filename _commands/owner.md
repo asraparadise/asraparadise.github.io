@@ -16,12 +16,11 @@ The Owner Module houses commands to adjust the settings of the server and the wa
 
 | Command              | Description                                                   | Usage                                  |
 | -------------------- | ------------------------------------------------------------- | -------------------------------------- |
-| dm                   | Dm a user through the bot with a message                      | `/dm [user] [message]`                 |
+| modules              | Lists whether server modules are enabled or disabled          | `/modules`                             |
 | purge                | Purge chat messages                                           | `/purge [amount] (flag)`               |
-| say                  | Get the bot to say a message in the selected channel          | `/say [channel] [message]`             |
 | settings             | List or adjust the server's settings for the bot              | `/settings ...`                        |
-| toggle command       | Toggle a command on or off                                    | `/toggle [state] [command]`            |
-| toggle setting       | Enable or disable a feature of the bot in this server         | `/toggle [state] [setting]`            |
+| toggle command       | Toggle a command on or off                                    | `/toggle command [state] [command]`    |
+| toggle module        | Enable or disable a module of the bot in this server          | `/toggle module [state] [module]`      |
 
 
 ## Server Settings
