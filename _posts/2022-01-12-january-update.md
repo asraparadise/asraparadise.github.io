@@ -11,22 +11,34 @@ description: Introducing Advanced Configuration! Asra just became a whole lot mo
 
 Asra is a fully customizable, multipurpose bot for your Discord server. Custom welcome messages, a global Economy system, Giveaways, Suggestions, Levelling, Moderation, QOTD and so much more are all included!
 
-To customise the bot for your server and to set up most of the features, use the `/settings` command. Use `/settings list` at any time to view all of your current settings in one place.
-For more info, click [here](https://asraparadise.github.io/commands/owner/#server-settings)!
+#### Modules
 
-Features and Commands can also be toggled on or off using  `/toggle [state] [setting]` or `/toggle [state] [command]`
+Below are the modules which are customisable and can be setup in your server.
 
-#### Configurable Features
-- Welcome Card and Messages
-- Leave Messages
-- QOTD
-- Suggestions
-- Auto Roles
-- Muted Role
-- Log Channels
-- Warn, Mute, Kick and Ban Roles
+- [Action Logs](https://asraparadise.github.io/commands/owner/#action-logs)
+- [Automod](https://asraparadise.github.io/commands/owner/#automod)
+- [Autoroles](https://asraparadise.github.io/commands/owner/#autoroles)
+- [Counting](https://asraparadise.github.io/commands/owner/#counting)
+- [Giveaways](https://asraparadise.github.io/commands/owner/#giveaways)
+- [Leave Message](https://asraparadise.github.io/commands/owner/#leave-message)
+- [Message Logs](https://asraparadise.github.io/commands/owner/#message-logs)
+- [Moderation Logs](https://asraparadise.github.io/commands/owner/#moderation-logs)
+- [Moderation - Warn](https://asraparadise.github.io/commands/owner/#moderation---warn)
+- [Moderation - Mute](https://asraparadise.github.io/commands/owner/#moderation---mute)
+- [Moderation - Kick](https://asraparadise.github.io/commands/owner/#moderation---kick)
+- [Moderation - Ban](https://asraparadise.github.io/commands/owner/#moderation---ban)
+- [Moderation - Muted Role](https://asraparadise.github.io/commands/owner/#moderation---muted-role)
+- [QOTD](https://asraparadise.github.io/commands/owner/#qotd)
+- [Suggestions](https://asraparadise.github.io/commands/owner/#suggestions)
+- [Welcome Message](https://asraparadise.github.io/commands/owner/#welcome-message)
 
-and much more to come...
+To list all of the current settings for your server, use the command `/settings list`
+
+To view a summary of which modules are enabled and disabled in your server, use the command `/modules`
+
+To setup a module for first use, use the `/settings` command. More info can be found [here](https://asraparadise.github.io/commands/owner/#modules).
+
+To enable/disable a module, use the `/toggle module [state] [module]` command.
 
 
 ### Website Rewrite

@@ -19,6 +19,7 @@ The Misc Module has all the commands that don't fit another category. Main comma
 | apply       | Link and info on how to apply for staff                       | `/apply`                      |
 | avatar      | Shows your or another user's avatar                           | `/av (user)`                  |
 | invite      | Invite Asra or recieve a link to its support server           | `/invite`                     |
+| poll        | Creates a poll in the current channel                         | `/poll [question] [option1] (option2) ...`|
 | premium     | Get information about Asra Premium                            | `/premium`                    |
 | qotd        | Post a new QOTD in the QOTD channel                           | `/qotd [question]`            |
 | redeem      | Redeem a code for awesome prizes                              | `/redeem [code]`              |
