@@ -26,22 +26,22 @@ The Owner Module houses commands to adjust the settings of the server and the wa
 
 Below are the modules which are customisable and can be setup in your server.
 
-- Action Logs
-- Automod
-- Autoroles
-- Counting
-- Giveaways
-- Leave Message
-- Message Logs
-- Moderation Logs
-- Moderation - Warn
-- Moderation - Mute
-- Moderation - Kick
-- Moderation - Ban
-- Moderation - Muted Role
-- QOTD
-- Suggestions
-- Welcome Message
+- [Action Logs](https://asraparadise.github.io/commands/owner/#action-logs)
+- [Automod](https://asraparadise.github.io/commands/owner/#automod)
+- [Autoroles](https://asraparadise.github.io/commands/owner/#autoroles)
+- [Counting](https://asraparadise.github.io/commands/owner/#counting)
+- [Giveaways](https://asraparadise.github.io/commands/owner/#giveaways)
+- [Leave Message](https://asraparadise.github.io/commands/owner/#leave-message)
+- [Message Logs](https://asraparadise.github.io/commands/owner/#message-logs)
+- [Moderation Logs](https://asraparadise.github.io/commands/owner/#moderation-logs)
+- [Moderation - Warn](https://asraparadise.github.io/commands/owner/#moderation---warn)
+- [Moderation - Mute](https://asraparadise.github.io/commands/owner/#moderation---mute)
+- [Moderation - Kick](https://asraparadise.github.io/commands/owner/#moderation---kick)
+- [Moderation - Ban](https://asraparadise.github.io/commands/owner/#moderation---ban)
+- [Moderation - Muted Role](https://asraparadise.github.io/commands/owner/#moderation---muted-role)
+- [QOTD](https://asraparadise.github.io/commands/owner/#qotd)
+- [Suggestions](https://asraparadise.github.io/commands/owner/#suggestions)
+- [Welcome Message](https://asraparadise.github.io/commands/owner/#welcome-message)
 
 > **Be Aware:** Before many features can be used in your server, you must set them up using the settings command. Using the settings command requires administrator perms to execute.
 
