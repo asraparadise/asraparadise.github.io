@@ -4,11 +4,7 @@ bodyClass: "page-404"
 ---
 
 <div class="background">
-    <h4 class="header404">404</h4>
-    <div class="content404">
-        Uh-oh! We couldn't find the page you are looking for.
-    </div>
-    <p>
-        <a href="/">Check our home page</a>
-    </p>
+    <h2 class="header404">{{ page.header }}</h2>
+    <div class="content404">{{ page.description }}</div>
+    <a href="/">Check our home page</a>
 </div>
