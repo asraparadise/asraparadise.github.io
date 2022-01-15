@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:900i');
+
+body, html {
+    height: 100%;
+}
+
+.background {
+    /* The image used */
+    background-image: url("images/BeachBackground.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
