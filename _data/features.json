@@ -1,6 +1,6 @@
 [
   {
-    "title": "Global Economy System",
+    "title": "[Global Economy System](https://asraparadise.github.io/commands/economy/)",
     "description": "Enhance your server and increase server engagement with tons of currency commands and an inventory system",
     "image": {
       "url": "images/features/economy.png",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Custom Welcome Messages",
+    "title": "[Custom Welcome Messages](https://asraparadise.github.io/commands/owner/#modules)",
     "description": "Asra lets you design your own welcome messages, that includes a custom welcome card with the user's avatar and name, and welcomes your users for you!",
     "image": {
       "url": "images/features/welcome.jpg",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "title": "Giveaways",
+    "title": "[Giveaways](https://asraparadise.github.io/commands/giveaways/)",
     "description": "Hold giveaways on your Discord server quickly and easily!",
     "image": {
       "url": "images/features/giveaway.jpg",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "title": "Moderation",
+    "title": "[Moderation](https://asraparadise.github.io/commands/moderation/)",
     "description": "Manage your Discord server with plenty of useful moderation commands.",
     "image": {
       "url": "images/features/moderation.png",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "title": "Fun Commands",
+    "title": "[Fun Commands](https://asraparadise.github.io/commands/fun/)",
     "description": "Asra has lots of fun commands for you to use.",
     "image": {
       "url": "images/features/fun.png",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "title": "Much more",
+    "title": "[Much more](https://asraparadise.github.io/commands/)",
     "description": "Autoroles, AFK Status, Levelling, Logs, Reminders, and much more.",
     "image": {
       "url": "images/features/levelling.jpg",

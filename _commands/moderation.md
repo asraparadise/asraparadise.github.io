@@ -16,17 +16,7 @@ The Moderation Module houses a range of basic moderation commands to take contro
 **[Click here](https://asraparadise.github.io/commands/automoderator) to view info on how the auto-moderation module behaves in Asra.**
 
 
-## Setting Roles which are allowed to use Moderation commands
-
-Before moderation commands can be used in a server, you must set the roles which are allowed to use the warn, mute, kick and ban commands.
-
-You can do this using the server settings command:
-`/settings setwarnrole`<br/>
-`/settings setmuterole`<br/>
-`/settings setkickrole`<br/>
-`/settings setbanrole`
-
-> **Warning:** This requires administrator perms to execute.
+> **Be Aware:** The Moderation Module needs setting up in a server before the commands can be used! Use the commands shown [here](https://asraparadise.github.io/commands/owner/#modules) to set the roles which can use each type of command.
 
 
 ## Commands
