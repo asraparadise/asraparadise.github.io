@@ -45,7 +45,18 @@
     {% include main-menu-mobile.html %}
     <div id="wrapper" class="wrapper">
         {% include header.html headerClass='header-extra' %}
+        {% if page.title == "Page Not Found - Asra" %}
+        <div class="background">
+        </div>
+
+        <div class="container">
+            <h2 class="header404">{{ page.header }}</h2>
+            <div class="content404">{{ page.description }}</div>
+            <a href="/">Check our home page</a>
+        </div>
+        {% else %}
         {{content}}
+        {% endif %}
     </div>
     {% include footer.html %}
     {% include sub-footer.html %}
@@ -65,16 +76,5 @@
         })();
     </script>
     <!--End of Tawk.to Script-->
-
-    {% if page.title == "Page Not Found - Asra" %}
-    <div class="background">
-    </div>
-
-    <div class="container">
-        <h2 class="header404">{{ page.header }}</h2>
-        <div class="content404">{{ page.description }}</div>
-        <a href="/">Check our home page</a>
-    </div>
-    {% endif %}
 </body>
 </html>
