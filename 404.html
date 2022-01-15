@@ -1,18 +1,44 @@
-﻿---
-# intentionally left blank
----
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Not Found</title>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.jpg' | relative_url }}">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Chango&family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <!-- Google Fonts CDN -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Self host font -->
+    <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
     <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />{% endif %}
+    {% if page.meta_title %}
+    <meta property="og:title" content="{{ page.meta_title }}" />{% else %}
+    <meta property="og:title" content="{{ page.title }}" />{% endif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ url }}" />
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />{% endif %}
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />{% endif %}
+    <meta name="twitter:card" content="summary" />
+    {% if site.data.seo.meta_twitter_site %}
+    <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />{% endif %}
+    {% if site.data.seo.meta_twitter_creator %}
+    <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />{% endif %}
+    <meta name="msvalidate.01" content="85AA00B2E92F014958608F7C00D13667" />
+    <meta name="google-site-verification" content="nSAM6lpRaPchS4fTEjt7DW5ia-_RigA0LgNRqj0-LEA" />
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "899sam8nc6");
+    </script>
     <style>
         body {
             background-image: url('images/BeachBackground.jpg');
@@ -50,6 +76,7 @@
     {% include footer.html %}
     {% include sub-footer.html %}
     <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+    {% include google-analytics.html %}
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
