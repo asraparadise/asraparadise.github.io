@@ -1,7 +1,8 @@
 [
   {
-    "title": "[Global Economy System](https://asraparadise.github.io/commands/economy/)",
+    "title": "Global Economy System",
     "description": "Enhance your server and increase server engagement with tons of currency commands and an inventory system",
+    "url": "https://asraparadise.github.io/commands/economy/",
     "image": {
       "url": "images/features/economy.png",
       "width": 80,
@@ -9,8 +10,9 @@
     }
   },
   {
-    "title": "[Custom Welcome Messages](https://asraparadise.github.io/commands/owner/#modules)",
+    "title": "Custom Welcome Messages",
     "description": "Asra lets you design your own welcome messages, that includes a custom welcome card with the user's avatar and name, and welcomes your users for you!",
+    "url": "https://asraparadise.github.io/commands/owner/#modules",
     "image": {
       "url": "images/features/welcome.jpg",
       "width": 80,
@@ -18,8 +20,9 @@
     }
   },
   {
-    "title": "[Giveaways](https://asraparadise.github.io/commands/giveaways/)",
+    "title": "Giveaways",
     "description": "Hold giveaways on your Discord server quickly and easily!",
+    "url": "https://asraparadise.github.io/commands/giveaways/",
     "image": {
       "url": "images/features/giveaway.jpg",
       "width": 80,
@@ -27,8 +30,9 @@
     }
   },
   {
-    "title": "[Moderation](https://asraparadise.github.io/commands/moderation/)",
+    "title": "Moderation",
     "description": "Manage your Discord server with plenty of useful moderation commands.",
+    "url": "https://asraparadise.github.io/commands/moderation/",
     "image": {
       "url": "images/features/moderation.png",
       "width": 80,
@@ -36,8 +40,9 @@
     }
   },
   {
-    "title": "[Fun Commands](https://asraparadise.github.io/commands/fun/)",
+    "title": "Fun Commands",
     "description": "Asra has lots of fun commands for you to use.",
+    "url": "https://asraparadise.github.io/commands/fun/",
     "image": {
       "url": "images/features/fun.png",
       "width": 80,
@@ -45,8 +50,9 @@
     }
   },
   {
-    "title": "[Much more](https://asraparadise.github.io/commands/)",
+    "title": "Much more",
     "description": "Autoroles, AFK Status, Levelling, Logs, Reminders, and much more.",
+    "url": "https://asraparadise.github.io/commands/",
     "image": {
       "url": "images/features/levelling.jpg",
       "width": 80,
