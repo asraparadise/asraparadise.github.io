@@ -48,7 +48,7 @@ body {
     margin-right: 45px;
 }
 
-span {
+span:nth-child(1) {
     transform: skewX(15deg)
 }
 
