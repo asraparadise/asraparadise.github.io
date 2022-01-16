@@ -1,14 +1,7 @@
-body, html {
-    height: 100%;
-    margin: 0;
-}
-
 .background {
-    /* The image used */
-    background-image: url("images/BeachBackground.jpg");
-    /* Full height */
-    height: 100%;
-    /* Center and scale the image nicely */
+    width: 100%;
+    height: auto;
+    margin-top: -40px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
