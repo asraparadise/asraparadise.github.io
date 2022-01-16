@@ -1,6 +1,6 @@
 ﻿﻿---
 layout: default
-bodyClass: "page-404"
+bodyClass: "page-error404"
 ---
 
 <div class="main404">
@@ -290,4 +290,11 @@ bodyClass: "page-404"
             </g>
         </svg>
     </div>
+</div>
+
+<img alt="404" class="background" src="{{ page.intro_image | relURL }}" />
+<div class="container">
+    <h2 class="header404">{{ page.header }}</h2>
+    <div class="content404">{{ content }}</div>
+    <div class="content404"><a href="/">Check our home page</a></div>
 </div>
