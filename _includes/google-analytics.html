@@ -1,6 +1,6 @@
 {% if jekyll.environment == "production" %}
     {% if site.data.seo.google_analytics_id %}
-<script>
+<!--<script>
     // Initialize the data layer for Google Tag Manager (this should mandatorily be done before the Cookie Solution is loaded)
     window.dataLayer = window.dataLayer || [];
     function gtag() {
@@ -16,7 +16,7 @@
     gtag('set', 'url_passthrough', true);
     // Further redact your ads data (optional)
     gtag("set", "ads_data_redaction", true);
-</script>
+</script>-->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.data.seo.google_analytics_id }}"></script>
 <script>
