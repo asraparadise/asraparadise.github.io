@@ -40,8 +40,16 @@
         })(window, document, "clarity", "script", "899sam8nc6");
     </script>
 
-    {% include google-analytics.html %}
+    <script src="https://cdn.jsdelivr.net/gh/manucaralmo/GlowCookies@3.1.6/src/glowCookies.min.js"></script>
+    <script>
+        glowCookies.start('en', {
+            style: 1,
+            analytics: 'UA-204375021-2',
+            policyLink: 'https://asraparadise.github.io/privacy/'
+        });
+    </script>
 
+    <!--{% include google-analytics.html %}-->
     <!--<script type="text/javascript">
         var _iub = _iub || [];
         _iub.csConfiguration = {
