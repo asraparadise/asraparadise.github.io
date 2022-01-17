@@ -17,7 +17,7 @@ If you can’t find the answer you’re looking for here or have a feature reque
 
 ## 👋 Who is behind Asra?
 
-Asra was created by Disguised#4241 on the and was orginally intended as a bot solely for the Asra Paradise Community Server which opened on the 18th January 2021.
+Asra was created by Disguised#4241 on the and was originally intended as a bot solely for the Asra Paradise Community Server which opened on the 18th January 2021.
 
 You can read more about us on our [Team page](https://asraparadise.github.io/team).
 
