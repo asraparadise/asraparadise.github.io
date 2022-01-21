@@ -12,7 +12,7 @@
   {
     "title": "Custom Welcome Messages",
     "description": "Asra lets you design your own welcome messages, that includes a custom welcome card with the user's avatar and name, and welcomes your users for you!",
-    "url": "https://asraparadise.github.io/commands/owner/#modules",
+    "url": "https://asraparadise.github.io/commands/owner/#welcome-message",
     "image": {
       "url": "images/features/welcome.jpg",
       "width": 80,
@@ -40,9 +40,9 @@
     }
   },
   {
-    "title": "Fun Commands",
-    "description": "Asra has lots of fun commands for you to use.",
-    "url": "https://asraparadise.github.io/commands/fun/",
+    "title": "Advanced configuration",
+    "description": "Most of Asra's features are fully customisable and can be configured to suit your needs!",
+    "url": "https://asraparadise.github.io/commands/owner/",
     "image": {
       "url": "images/features/fun.png",
       "width": 80,

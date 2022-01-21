@@ -26,6 +26,10 @@ The Owner Module houses commands to adjust the settings of the server and the wa
 
 Below are the modules which are customisable and can be setup in your server.
 
+To list all of the current settings for your server, use the command `/settings list`
+
+To view a summary of which modules are enabled and disabled in your server, use the command `/modules`
+
 - [Action Logs](https://asraparadise.github.io/commands/owner/#action-logs)
 - [Automod](https://asraparadise.github.io/commands/owner/#automod)
 - [Autoroles](https://asraparadise.github.io/commands/owner/#autoroles)
@@ -46,11 +50,6 @@ Below are the modules which are customisable and can be setup in your server.
 - [Welcome Message](https://asraparadise.github.io/commands/owner/#welcome-message)
 
 > **Be Aware:** Before many features can be used in your server, you must set them up using the settings command. Using the settings command requires administrator perms to execute.
-
-To list all of the current settings for your server, use the command `/settings list`
-
-To view a summary of which modules are enabled and disabled in your server, use the command `/modules`
-
 
 #### Action Logs<br/>
 Set the channel where events such as create or delete channel/role will be logged.<br/>
@@ -127,16 +126,16 @@ Set the welcome message you would like the bot to send when a new user joins. Th
 
 ## Variables for welcome and leave messages
 
-{user} - The mention of the user calling the command. Eg: Hello {user}!<br/>
-{username} - The username of the user. Eg: Hello {username}!<br/>
-{server} - The server name<br/>
-{channel} - The current channel's name<br/>
-{@user} - Mention a specific user by replacing 'user' with the id of the user. Eg: {@728625544547008522}<br/>
-{@&role} - Mention a role by replacing 'role' with the role id. Eg: {@&800664298829250581}, We're streaming now!<br/>
-{#channel} - Mention a channel by replacing 'channel' with the id of the channel you want to link. Eg: Use {#808397725573447711} for all bot testing.<br/>
-{everyone} - @ everyone<br/>
-{here} - @ here<br/>
-{newline} - Add a newline<br/>
+- {user} - The mention of the user calling the command. Eg: Hello {user}!
+- {username} - The username of the user. Eg: Hello {username}!
+- {server} - The server name
+- {channel} - The current channel's name
+- {@user} - Mention a specific user by replacing 'user' with the id of the user. Eg: {@728625544547008522}
+- {@&role} - Mention a role by replacing 'role' with the role id. Eg: {@&800664298829250581}, We're streaming now!
+- {#channel} - Mention a channel by replacing 'channel' with the id of the channel you want to link. Eg: Use {#808397725573447711} for all bot testing.
+- {everyone} - @ everyone
+- {here} - @ here
+- {newline} - Add a newline
 
 
 
