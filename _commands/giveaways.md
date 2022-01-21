@@ -15,10 +15,10 @@ The Giveaways Module provides a range of commands to hold giveaways in your Disc
 
 ## Commands
 
-| Command              | Description                                                   | Usage                                  |
-| -------------------- | ------------------------------------------------------------- | -------------------------------------- |
-| gstart               | Start a giveaway with the options listed                      | `/gstart [duration] [winners] [prize] [channel] [role]` |
-| gedit                | Edit a giveaway with the new options listed                   | `/gedit [messageID] [duration] [winners] [prize]` |
-| greroll              | Reroll a giveaway                                             | `/greroll [messageID]`                 |
-| gdelete              | Delete a giveaway                                             | `/gdelete [messageID]`                 |
-| glist                | List all current giveaways                                    | `/glist`                               |
+| Command              | Description                                                   | Usage                                                           |
+| -------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
+| start                | Start a giveaway with the options listed                      | `/giveaway start [duration] [winners] [prize] [channel] [role]` |
+| edit                 | Edit a giveaway with the new options listed                   | `/giveaway edit [messageID] [duration] [winners] [prize]`       |
+| reroll               | Reroll a giveaway                                             | `/giveaway reroll [messageID]`                                  |
+| delete               | Delete a giveaway                                             | `/giveaway delete [messageID]`                                  |
+| list                 | List all current giveaways                                    | `/giveaway list`                                                |

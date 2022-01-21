@@ -13,4 +13,10 @@ The Music Module has commands related to music such as a lyrics finder and a com
 
 ## Commands
 
-**No commands currently**
+## Commands
+
+| Command        | Description                                                       | Usage                                                   |
+| -------------- | ----------------------------------------------------------------- | --------------------------------------------------------|
+| nowplaying     | View info for the song you are currently listening to on Spotify* | `/nowplaying`                                           |
+
+* You must have Spotify connected to your discord account and set to be displayed as your status. (`User Settings -> Connections -> Spotify`)
