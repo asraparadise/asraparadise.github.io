@@ -81,7 +81,8 @@ Set the leave message you would like the bot to send when a user leaves. Click [
 
 #### Member Counter<br/>
 Setup a channel which will have the member count of the server as the name and will update whenever a user joins or leaves.<br/>
-`/settings setupmembercounter [channel]`
+The text parameter allows you to enter the text which should appear as the Discord channel name using the variable {count} E.g: Members: {count}
+`/settings setupmembercounter [channel] [text]`
 
 #### Message Logs<br/>
 Set the channel where message events (edit/delete) will be logged.<br/>
@@ -126,15 +127,15 @@ Set the welcome message you would like the bot to send when a new user joins. Th
 
 ## Variables for welcome and leave messages
 
-- {user} - The mention of the user calling the command. Eg: Hello {user}!
-- {username} - The username of the user. Eg: Hello {username}!
+- {user} - The mention of the user calling the command. E.g: Hello {user}!
+- {username} - The username of the user. E.g: Hello {username}!
 - {server} - The server name
 - {channel} - The current channel's name
-- {@user} - Mention a specific user by replacing 'user' with the id of the user. Eg: {@728625544547008522}
-- {@&role} - Mention a role by replacing 'role' with the role id. Eg: {@&800664298829250581}, We're streaming now!
-- {#channel} - Mention a channel by replacing 'channel' with the id of the channel you want to link. Eg: Use {#808397725573447711} for all bot testing.
-- {everyone} - @ everyone
-- {here} - @ here
+- {@user} - Mention a specific user by replacing 'user' with the id of the user. E.g: {@728625544547008522}
+- {@&role} - Mention a role by replacing 'role' with the role id. E.g: {@&800664298829250581}, We're streaming now!
+- {#channel} - Mention a channel by replacing 'channel' with the id of the channel you want to link. E.g: Use {#800664365820936213} for all bot testing.
+- {everyone} - @everyone
+- {here} - @here
 - {newline} - Add a newline
 
 
