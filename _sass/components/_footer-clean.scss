@@ -1,7 +1,7 @@
 .footer-clean {
     padding: 50px 0;
     background-color: #e5261f;
-    color: #4b4c4d;
+    color: #f0f9ff;
 }
 
 .footer-clean h3 {
@@ -33,19 +33,6 @@
     text-align: right;
 }
 
-@media (max-width:767px) {
-    .footer-clean .item {
-        text-align: center;
-        padding-bottom: 20px;
-    }
-}
-
-@media (max-width: 768px) {
-    .footer-clean .item.social {
-        text-align: center;
-    }
-}
-
 .footer-clean .item.social > a {
     font-size: 24px;
     width: 40px;
@@ -63,18 +50,6 @@
 
 .footer-clean .item.social > a:hover {
     opacity: 0.9;
-}
-
-@media (max-width:991px) {
-    .footer-clean .item.social > a {
-        margin-top: 40px;
-    }
-}
-
-@media (max-width:767px) {
-    .footer-clean .item.social > a {
-        margin-top: 10px;
-    }
 }
 
 .footer-clean .copyright {
