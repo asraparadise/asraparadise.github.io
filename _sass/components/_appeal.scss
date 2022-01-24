@@ -1,5 +1,5 @@
 /* Customize the label (the container) */
-.appeal container {
+.container {
     display: block;
     position: relative;
     padding-left: 35px;
@@ -13,7 +13,7 @@
 }
 
 /* Hide the browser's default checkbox */
-.appeal container input {
+.container input {
     position: absolute;
     opacity: 0;
     cursor: pointer;
@@ -22,7 +22,7 @@
 }
 
 /* Create a custom checkbox */
-.appeal checkmark {
+.checkmark {
     position: absolute;
     top: 0;
     left: 0;
@@ -32,29 +32,29 @@
 }
 
 /* On mouse-over, add a grey background color */
-.appeal container:hover input ~ .checkmark {
+.container:hover input ~ .checkmark {
     background-color: #ccc;
 }
 
 /* When the checkbox is checked, add a blue background */
-.appeal container input:checked ~ .checkmark {
+.container input:checked ~ .checkmark {
     background-color: #2196F3;
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
-.appeal checkmark:after {
+.checkmark:after {
     content: "";
     position: absolute;
     display: none;
 }
 
 /* Show the checkmark when checked */
-.appeal container input:checked ~ .checkmark:after {
+.container input:checked ~ .checkmark:after {
     display: block;
 }
 
 /* Style the checkmark/indicator */
-.appeal container .checkmark:after {
+.container .checkmark:after {
     left: 9px;
     top: 5px;
     width: 5px;
