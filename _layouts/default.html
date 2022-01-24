@@ -10,12 +10,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <script src="https://kit.fontawesome.com/d746b9d566.js" crossorigin="anonymous"></script>
     <!-- Self host font -->
     <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
     <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
 
-    {% if page.description %}
+ {% if page.description %}
+    "
     <meta name="description" content="{{ page.description }}" />{% endif %}
     {% if page.meta_title %}
     <meta property="og:title" content="{{ page.meta_title }}" />{% else %}
