@@ -1,0 +1,96 @@
+﻿---
+layout: default
+bodyClass: "page-apply"
+---
+
+<div class="intro">
+    <div class="container">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+                {{ content }}
+            </div>
+            {% if page.intro_image %}
+            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+                <img alt={{ page.header }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">var submitted = false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+        onload="if(submitted) {window.location='https://asraparadise.github.io/thankyou/';}"></iframe>
+
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfZguBdtFvYBcxdXDXYKa800MAFG7MwpEpdTEGHD6viRBzG7w/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+    <div class="strip">
+        <div class="container pt-6 pb-6 pb-md-10">
+            <div class="row justify-content-center">
+                <div class="wrapper">
+                    <table class="center" border="0" cellpadding="5" cellspacing="0">
+                        <tr>
+                            <td style="width: 50%">
+                                <label for="Username"><b>Username *</b></label><br />
+                                <input type="text" placeholder="e.g. Disguised" name="entry.1745682583" maxlength="32" style="width:100%;max-width: 260px" required />
+                            </td>
+                            <td style="width: 50%">
+                                <label for="Tag"><b>Discriminator *</b></label><br />
+                                <input type="number" placeholder="e.g. 4241" name="entry.1938410870" maxlength="4" style="width:100%;max-width: 260px" required />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <label class="container">
+                                    Discord's Terms of Service
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Asra Paradise's Rules
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Causing drama or questioning mod decisions
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Spam
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Scamming
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Advertising
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="container">
+                                    Unsure/Other
+                                    <input type="checkbox" name = entry.593565353_sentinel>
+                                    <span class="checkmark"></span>
+                                </label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <label for="Rules"><b>Please write your appeal below. *</b></label><br />
+                                <textarea rows="5" name="entry.124616394" style="width:100%;max-width: 535px" required></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center;">
+                                <button type="submit">Submit</button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
