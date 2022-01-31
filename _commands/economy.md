@@ -18,11 +18,12 @@ Members will be automatically given currency whenever they send a message too.
 | Command      | Description                                                   | Usage                         |
 | ------------ | ------------------------------------------------------------- | ----------------------------- |
 | balance      | Check your coin balance, or someone elses                     | `/bal (user)`                 |
-| beg          | Beg for coins. You have a random chance to gain some coins or get nothing at all | `/beg`    |
+| beg          | Beg for coins. You have a random chance to gain some coins or get nothing at all | `/beg`     |
 | buy          | Buy items from the in-game shop                               | `/buy [item] (amount)`        |
 | coin flip    | Flip a coin to earn coins                                     | `/coinflip [amount] [flip]`   |
 | crime        | Commit a crime and see what will you get out of it!           | `/crime`                      |
 | daily        | Claim your daily coins                                        | `/daily`                      |
+| deposit      | Deposit your coins into the bank for safe keeping             | `/deposit [amount]`           |
 | dig          | Dig in the dirt to see what you can find!                     | `/dig`                        |
 | fish         | Cast out your fishing pole and try to catch fish to get rich! | `/fish`                       |
 | gift         | Gift items to another user                                    | `/gift [user] [item] (amount)`|
@@ -31,10 +32,12 @@ Members will be automatically given currency whenever they send a message too.
 | hunt         | Take your hunting rifle and take your chances trying to hunt for some animals to sell! | `/hunt` |
 | inventory    | Check your inventory to see what items you have collected     | `/inv`                        |
 | post meme    | Use a laptop to post memes. A viral meme will earn you money! | `/pm`                         |
-| work         | This command is a "work" mini-game!                           | Coming soon                   |
 | roll dice    | Roll the dice and if it lands on your number, you'll win!     | `/rolldice [amount] [number]` |
+| roulette     | Gamble on those spinning numbers and see how lucky you are    | `/roulette [amount] [colour]` |
 | scout        | Gain coins and sometimes items by searching for good loot.    | `/scout`                      |
 | sell         | Sell your items to earn money                                 | `/sell [item] (amount)`       |
 | shop         | See what's in the Asra store!                                 | `/shop`                       |
 | slots        | Take your chances at a slot machine                           | `/slots [amount]`             |
 | weekly       | Claim your weekly coins (Premium Only)                        | `/weekly`                     |
+| withdraw     | Withdraw coins from your bank account                         | `/withdraw [amount]`          |
+| work         | Get work done for money                                       | `/work`                       |

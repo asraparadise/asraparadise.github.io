@@ -32,10 +32,10 @@ The Fun Module provides a range of fun commands to have fun using while in Asra.
 | Command             | Description                                                   | Usage                        |
 | ------------------- | ------------------------------------------------------------- | ---------------------------- |
 | bird                | Show a picture of a bird                                      | `/gif bird`                  |
-| cat                 | Show a picture of a cat                                       | `/cat`                       |
+| cat                 | Show a picture of a cat                                       | `/gif cat`                   |
 | cute                | See some random cute things                                   | `/gif cute`                  |
 | discord meme        | A random Discord-themed meme!                                 | `/gif discordmeme`           |
-| dog                 | Show a picture of a dog                                       | `/dog`                       |
+| dog                 | Show a picture of a dog                                       | `/gif dog`                   |
 | funny               | Shows a funny image                                           | `/gif funny`                 |
 | meme                | See the top new memes on reddit!                              | `/gif meme`                  |
 | monkey              | Show a picture of a monkey                                    | `/gif monkey`                |
