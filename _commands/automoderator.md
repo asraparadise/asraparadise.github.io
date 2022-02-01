@@ -11,6 +11,8 @@ layout: command
 
 The Auto-Moderator will automatically moderate the text channels in Asra Paradise. It includes a number of different modules including a word blacklist, mention spam and links/server invite detector.
 
+> **Be Aware:** Automod needs setting up in a server before it will work! Use the command `/settings setupautomod (channel)`. The channel is optional and is where automod actions will be logged.
+
 ## Banned Words
 
 The Bad Words module blacklists certain words from being said in the discord server. 

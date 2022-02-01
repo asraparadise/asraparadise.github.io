@@ -11,8 +11,6 @@ layout: command
 
 The Economy Module provides a range of fun commands to earn Asra Coins which can be used to buy in-server items in the Asra Shop!‌
 
-Members will be automatically given currency whenever they send a message too. 
-
 ## Commands
 
 | Command      | Description                                                   | Usage                         |
