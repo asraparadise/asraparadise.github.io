@@ -6,9 +6,9 @@ description: Vyrix makes it easy to listen to your favourite music with all your
 bodyClass: page-partners
 ---
 
-### Officially Partnered With Vyrix
+## Officially Partnered With Vyrix
 
-##### Vyrix makes it easy to listen to your favourite music with all your friends. Add it and start listening now.
+### Vyrix makes it easy to listen to your favourite music with all your friends. Add it and start listening now.
 
 ![Vyrix Logo](/images/Vyrix.png)
 
