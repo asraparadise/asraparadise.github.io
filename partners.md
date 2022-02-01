@@ -2,22 +2,24 @@
 title: Partners - Asra
 header: Partners
 layout: page
-description: Asra is a fully customizable, multipurpose Discord bot with a global economy system, custom welcome messages, giveaways, moderation, tickets, and much more!
+description: Vyrix makes it easy to listen to your favourite music with all your friends. Add it and start listening now.
 bodyClass: page-partners
 ---
 
 ### Officially Partnered With Vyrix
 
+##### Vyrix makes it easy to listen to your favourite music with all your friends. Add it and start listening now.
+
 ![Vyrix Logo](/images/Vyrix.png)
 
-Vyrix is a **fully customizable** server moderation Discord bot for your Discord server. Server management just got a whole lot easier.
+Vyrix is an awesome bot and one of the best bots on discord making it easy to listen to any of your favorite songs with a group of friends or by yourself.
 
-Moderation: Moderation with mod logs, timed mutes and bans. **Auto-moderation**/anti-spam, fully configurable. Commands can be toggled on and off too!
+Getting started with Vyrix is easy, once you've added our bot to your server you can jump in a voice channel and use the command `/music play` followed by the song or playlist you want to listen to.
 
-Much More: **Reaction Roles**, **Giveaways**, **Welcome and Leave messages**, **AFK status**, **Music**, **Games**, **Anime**, **Anti-Swear**, **Tickets** and much more.
+It's updated frequently with new features and enhancements.</br>
+If there are any features that you would like to see, request them in our [Discord server](https://discord.gg/HduzATJU7B)!</br>
+New features are built off what users ask for.
 
-Vyrix is used on many servers, we invite you to try it out and hope you enjoy!
-
-It's updated frequently with new features and enhancements. If there are any features that you would like to see, request them in the [Vyrix Support server](https://discord.gg/HduzATJU7B)! New features are built off what users ask for.
+To add the bot and setup your server, click [here](https://discord.com/oauth2/authorize?client_id=799960392985608192&permissions=8589934591&scope=bot%20applications.commands).
 
 **[Check out Vyrix now!](https://vyrix-bot.github.io/)**
