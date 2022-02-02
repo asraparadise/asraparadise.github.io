@@ -19,6 +19,7 @@ bodyClass: "page-teams"
 </div>
 
 <div class="container pt-6 pb-6">
+    <h2>Dev Team</h2>
     <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
         {% for team in promoted_teams %}
@@ -41,6 +42,7 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
     </div>
+    <h2>Server Moderators</h2>
     <div class="row pt-6 pb-6">
         {% assign teams = site.team | where: "promoted", false | sort: "weight" %}
         {% for team in teams %}
