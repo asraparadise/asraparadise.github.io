@@ -7,5 +7,3 @@ permalink: "/thankyou/"
 ---
 
 We have recieved your application and will get back to you soon if you are succesful.
-
-Meanwhile continue to chat in Asra and enjoy being part of the community!
