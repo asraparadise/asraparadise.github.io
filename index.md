@@ -1,5 +1,5 @@
 ---
-title: Asra Paradise | Home
+title: Asra | Home
 header: Asra
 layout: home
 description: Asra is a fully customizable, multipurpose Discord bot with a global economy system, custom welcome messages, giveaways, moderation, tickets, and much more!
