@@ -7,7 +7,7 @@ description: The Auto-Moderator will automatically moderate your server and incl
 show: false
 weight: 13
 layout: command
-permalink: "/commands/asra/automoderator"
+permalink: "/commands/asra/automoderator/"
 ---
 
 The Auto-Moderator will automatically moderate the text channels in Asra Paradise. It includes a number of different modules including a word blacklist, mention spam and links/server invite detector.

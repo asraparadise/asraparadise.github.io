@@ -7,7 +7,7 @@ description: The Info Module provides useful information about the server.
 show: true
 weight: 5
 layout: command
-permalink: "/commands/asra/info"
+permalink: "/commands/asra/info/"
 ---
 
 The Info Module provides useful information about the server.

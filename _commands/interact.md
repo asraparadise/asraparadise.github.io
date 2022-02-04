@@ -7,7 +7,7 @@ description: The Interact Module provides a range of fun commands to show emotio
 show: true
 weight: 1
 layout: command
-permalink: "/commands/asra/interact"
+permalink: "/commands/asra/interact/"
 ---
 
 The Interact Module provides a range of fun commands to show emotions in text channels.

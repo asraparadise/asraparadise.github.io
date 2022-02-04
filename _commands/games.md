@@ -7,7 +7,7 @@ description: The Games Module provides a range of fun games to play while in Asr
 show: true
 weight: 4
 layout: command
-permalink: "/commands/asra/games"
+permalink: "/commands/asra/games/"
 ---
 
 The Games Module provides a range of fun games to play while in Asra.

@@ -7,7 +7,7 @@ description: We want your feedback! Request features for the bot or the communit
 show: true
 weight: 11
 layout: command
-permalink: "/commands/asra/suggestions"
+permalink: "/commands/asra/suggestions/"
 ---
 
 The Suggestion Module houses commands to suggest features for the server the bot is in or for features for the Asra bot.

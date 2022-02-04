@@ -7,7 +7,7 @@ description: The Fun Module provides a range of fun commands to have fun using w
 show: true
 weight: 3
 layout: command
-permalink: "/commands/asra/fun"
+permalink: "/commands/asra/fun/"
 ---
 
 The Fun Module provides a range of fun commands to have fun using while in Asra.

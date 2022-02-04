@@ -7,7 +7,7 @@ description: The Moderation Module houses a range of basic moderation commands t
 show: true
 weight: 9
 layout: command
-permalink: "/commands/asra/moderation"
+permalink: "/commands/asra/moderation/"
 ---
 
 The Moderation Module houses a range of basic moderation commands to take control of the server.

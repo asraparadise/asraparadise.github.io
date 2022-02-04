@@ -13,6 +13,7 @@ logo:
 collections:
   commands:
     output: true
+    permalink: /:collection/asra/:name
   team:
     output: true
 
