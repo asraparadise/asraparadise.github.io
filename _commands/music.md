@@ -7,6 +7,7 @@ description: The Music Module has commands related to music such as lyrics and a
 show: true
 weight: 8
 layout: command
+permalink: "/commands/asra/music"
 ---
 
 The Music Module has commands related to music such as a lyrics finder and a command which shows information about the current song you are listening to on Spotify.

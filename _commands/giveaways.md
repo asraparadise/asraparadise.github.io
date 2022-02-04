@@ -7,6 +7,7 @@ description: The Giveaways Module provides a range of commands to hold giveaways
 show: true
 weight: 12
 layout: command
+permalink: "/commands/asra/giveaways"
 ---
 
 The Giveaways Module provides a range of commands to hold giveaways in your Discord server quickly and easily!

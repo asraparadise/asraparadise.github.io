@@ -7,6 +7,7 @@ description: The Economy Module provides a range of fun commands to earn Asra Co
 show: true
 weight: 2
 layout: command
+permalink: "/commands/asra/economy"
 ---
 
 The Economy Module provides a range of fun commands to earn Asra Coins which can be used to buy in-server items in the Asra Shop!‌

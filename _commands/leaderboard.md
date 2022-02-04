@@ -7,6 +7,7 @@ description: The Leaderboard Module shows the leaderboards for a variety of diff
 show: true
 weight: 6
 layout: command
+permalink: "/commands/asra/leaderboard"
 ---
 
 The Leaderboard Module shows the leaderboards for a variety of different things including messages, invites, xp and coins.

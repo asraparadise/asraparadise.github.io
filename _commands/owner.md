@@ -7,6 +7,7 @@ description: The Owner Module houses commands to adjust the settings of the serv
 show: true
 weight: 10
 layout: command
+permalink: "/commands/asra/owner"
 ---
 
 The Owner Module houses commands to adjust the settings of the server and the way the bot behaves.

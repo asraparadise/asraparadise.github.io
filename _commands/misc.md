@@ -7,6 +7,7 @@ description: The Misc Module has all the commands that don't fit another categor
 show: true
 weight: 7
 layout: command
+permalink: "/commands/asra/misc"
 ---
 
 The Misc Module has all the commands that don't fit another category. Main commands include afk, avatar and snipe!
