@@ -2,29 +2,47 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/</loc>
+    <loc>https://asraparadise.github.io/</loc>
 
-   </url>
+  </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/commands/</loc>
+    <loc>https://asraparadise.github.io/asramusic/</loc>
 
-   </url>
+  </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/team/</loc>
+    <loc>https://asraparadise.github.io/commands/</loc>
 
-   </url>
+  </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/faq/</loc>
+    <loc>https://asraparadise.github.io/commands/asra/</loc>
 
-   </url>
+  </url>
+
+  <url>
+
+    <loc>https://asraparadise.github.io/commands/asramusic/</loc>
+
+  </url>
+
+  <url>
+
+    <loc>https://asraparadise.github.io/team/</loc>
+
+  </url>
+
+  <url>
+
+    <loc>https://asraparadise.github.io/faq/</loc>
+
+  </url>
 
   <url>
 
@@ -32,76 +50,93 @@
 
   </url>
 
-   <url>
+  <url>
 
-      <loc>https://asraparadise.github.io/commands/interact/</loc>
+    <loc>https://asraparadise.github.io/commands/asra/interact/</loc>
 
-   </url>
+  </url>
 
   <url>
 
-    <loc>https://asraparadise.github.io/commands/economy/</loc>
+    <loc>https://asraparadise.github.io/commands/asra/economy/</loc>
 
   </url>
-  
-   <url>
 
-      <loc>https://asraparadise.github.io/commands/fun/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/fun/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/games/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/games/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/info/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/info/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/leaderboard/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/leaderboard/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/misc/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/misc/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/music/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/music/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/moderation/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/moderation/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/owner/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/automoderator/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/suggestions/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/owner/</loc>
 
-   <url>
+  </url>
 
-      <loc>https://asraparadise.github.io/commands/giveaways/</loc>
+  <url>
 
-   </url>
+    <loc>https://asraparadise.github.io/commands/asra/suggestions/</loc>
 
+  </url>
+
+  <url>
+
+    <loc>https://asraparadise.github.io/commands/asra/giveaways/</loc>
+
+  </url>
+
+  <url>
+
+    <loc>  https://asraparadise.github.io/commands/asramusic/info/</loc>
+
+  </url>
+
+  <url>
+
+    <loc>  https://asraparadise.github.io/commands/asramusic/music/</loc>
+
+  </url>
 </urlset>
