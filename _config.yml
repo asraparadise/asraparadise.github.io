@@ -19,7 +19,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "commands"
+      type: "asra"
     values:
       layout: "command"
   - scope:

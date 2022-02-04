@@ -20,7 +20,7 @@ bodyClass: "page-commands"
 
 <div class="container pt-6 pb-6">
     <div class="row">
-        {% assign weighted_commands = site.commands | sort: "weight" %}
+        {% assign weighted_commands = site.asra | sort: "weight" %}
         {% for command in weighted_commands %}
         {% if command.show %}
         <div class="col-12 col-md-6 mb-3">
