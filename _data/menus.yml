@@ -11,20 +11,3 @@ main:
   - name: "Support"
     url: "https://discord.com/invite/qwCzwBvRn9"
     weight: 5
-
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Premium"
-    url: "https://www.patreon.com/join/asraparadise"
-    weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "Terms"
-    url: "/terms/"
-    weight: 4
-  - name: "Privacy"
-    url: "/privacy/"
-    weight: 5
