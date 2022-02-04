@@ -39,6 +39,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-paginate
 
 exclude:
   - Gemfile
