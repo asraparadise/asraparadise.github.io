@@ -14,8 +14,6 @@ The Music Module has commands related to music such as a lyrics finder and a com
 
 ## Commands
 
-## Commands
-
 | Command        | Description                                                       | Usage                                                   |
 | -------------- | ----------------------------------------------------------------- | --------------------------------------------------------|
 | nowplaying     | View info for the song you are currently listening to on Spotify* | `/nowplaying`                                           |
