@@ -1,6 +1,6 @@
 ---
-title: December Update - Asra
-header: December Update
+title: Economy Upgrades & Going Public - Asra
+header: Economy Upgrades & Going Public
 layout: post
 author: Disguised
 date: December 14, 2021

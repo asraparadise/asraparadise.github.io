@@ -1,6 +1,6 @@
 ---
-title: January Update - Asra
-header: January Update
+title: Advanced Configuration - Asra
+header: Advanced Configuration
 layout: post
 author: Disguised
 date: January 12, 2022
