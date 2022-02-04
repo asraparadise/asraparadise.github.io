@@ -11,16 +11,16 @@ logo:
   desktop_width: "32px"
 
 collections:
-  commands:
+  asra:
     output: true
-    permalink: /:collection/asra/:name
+    permalink: /commands/:collection/:name
   team:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "commands"
+      type: "asra"
     values:
       layout: "command"
   - scope:
