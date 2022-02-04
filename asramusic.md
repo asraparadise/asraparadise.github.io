@@ -1,7 +1,7 @@
 ---
 title: Asra Music Commands - Asra
 header: Asra Music Commands
-layout: commands
+layout: musiccommands
 description: Asra Music makes it easy to listen to your favourite music with all your friends. Simply jump in a voice channel and listen to any song or playlist you like.
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
