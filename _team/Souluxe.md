@@ -10,10 +10,8 @@ promoted: true
 weight: 2
 ---
 
-Asra Is The Best Server I Have Worked For!
-
 Hey I'm Souluxe. <br>
-I'm a young programmer who is currently working on a Discord Bot Asra Music so make sure you check it out!
+I'm a young programmer who is currently working on the Discord bot Asra Music so make sure you check it out!
 
 🔶 Name: Souluxe<br>
 🔶 Dms: Open<br>
