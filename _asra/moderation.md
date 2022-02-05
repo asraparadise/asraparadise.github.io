@@ -17,7 +17,7 @@ The Moderation Module houses a range of basic moderation commands to take contro
 **[Click here](https://asraparadise.github.io/commands/asra/automoderator/) to view info on how the auto-moderation module behaves in Asra.**
 
 
-> **Be Aware:** The Moderation Module needs setting up in a server before the commands can be used! Use the commands shown [here](https://asraparadise.github.io/commands/owner/#modules) to set the roles which can use each type of command.
+> **Be Aware:** The Moderation Module needs setting up in a server before the commands can be used! Use the commands shown [here](https://asraparadise.github.io/commands/asra/owner/#modules) to set the roles which can use each type of command.
 
 
 ## Commands

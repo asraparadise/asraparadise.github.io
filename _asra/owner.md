@@ -31,24 +31,25 @@ To list all of the current settings for your server, use the command `/settings 
 
 To view a summary of which modules are enabled and disabled in your server, use the command `/modules`
 
-- [Action Logs](https://asraparadise.github.io/commands/owner/#action-logs)
-- [Automod](https://asraparadise.github.io/commands/owner/#automod)
-- [Autoroles](https://asraparadise.github.io/commands/owner/#autoroles)
-- [Chatbot](https://asraparadise.github.io/commands/owner/#chatbot)
-- [Counting](https://asraparadise.github.io/commands/owner/#counting)
-- [Giveaways](https://asraparadise.github.io/commands/owner/#giveaways)
-- [Leave Message](https://asraparadise.github.io/commands/owner/#leave-message)
-- [Member Counter](https://asraparadise.github.io/commands/owner/#member-counter)
-- [Message Logs](https://asraparadise.github.io/commands/owner/#message-logs)
-- [Moderation Logs](https://asraparadise.github.io/commands/owner/#moderation-logs)
-- [Moderation - Warn](https://asraparadise.github.io/commands/owner/#moderation---warn)
-- [Moderation - Mute](https://asraparadise.github.io/commands/owner/#moderation---mute)
-- [Moderation - Kick](https://asraparadise.github.io/commands/owner/#moderation---kick)
-- [Moderation - Ban](https://asraparadise.github.io/commands/owner/#moderation---ban)
-- [Moderation - Muted Role](https://asraparadise.github.io/commands/owner/#moderation---muted-role)
-- [QOTD](https://asraparadise.github.io/commands/owner/#qotd)
-- [Suggestions](https://asraparadise.github.io/commands/owner/#suggestions)
-- [Welcome Message](https://asraparadise.github.io/commands/owner/#welcome-message)
+- [Action Logs](https://asraparadise.github.io/commands/asra/owner/#action-logs)
+- [Automod](https://asraparadise.github.io/commands/asra/owner/#automod)
+- [Autoroles](https://asraparadise.github.io/commands/asra/owner/#autoroles)
+- [Bump Reminders](https://asraparadise.github.io/commands/asra/owner/#bump-reminders)
+- [Chatbot](https://asraparadise.github.io/commands/asra/owner/#chatbot)
+- [Counting](https://asraparadise.github.io/commands/asra/owner/#counting)
+- [Giveaways](https://asraparadise.github.io/commands/asra/owner/#giveaways)
+- [Leave Message](https://asraparadise.github.io/commands/asra/owner/#leave-message)
+- [Member Counter](https://asraparadise.github.io/commands/asra/owner/#member-counter)
+- [Message Logs](https://asraparadise.github.io/commands/asra/owner/#message-logs)
+- [Moderation Logs](https://asraparadise.github.io/commands/asra/owner/#moderation-logs)
+- [Moderation - Warn](https://asraparadise.github.io/commands/asra/owner/#moderation---warn)
+- [Moderation - Mute](https://asraparadise.github.io/commands/asra/owner/#moderation---mute)
+- [Moderation - Kick](https://asraparadise.github.io/commands/asra/owner/#moderation---kick)
+- [Moderation - Ban](https://asraparadise.github.io/commands/asra/owner/#moderation---ban)
+- [Moderation - Muted Role](https://asraparadise.github.io/commands/asra/owner/#moderation---muted-role)
+- [QOTD](https://asraparadise.github.io/commands/asra/owner/#qotd)
+- [Suggestions](https://asraparadise.github.io/commands/asra/owner/#suggestions)
+- [Welcome Message](https://asraparadise.github.io/commands/asra/owner/#welcome-message)
 
 > **Be Aware:** Before many features can be used in your server, you must set them up using the settings command. Using the settings command requires administrator perms to execute.
 
@@ -64,6 +65,10 @@ Setup automod. You can set an optional channel which Automod actions will be log
 Set the roles to be automatically given to any new user that joins. (Max 10)<br/>
 `/settings setupautoroles [role1] (role2) ...`
 
+#### Bump Reminders<br/>
+Turn on bump reminders for the server and have an optional ping role. Bump reminders work with the DISBOARD bot.<br/>
+`/settings setupbumpreminder (pingrole)`
+
 #### Chatbot<br/>
 Setup a channel where Asra will respond to all messages sent in using AI.<br/>
 `/settings setupchatbot [channel]`
@@ -77,7 +82,7 @@ Setup giveaways in your server by setting a role which can manage and create giv
 `/settings setupgiveaways [role]`
 
 #### Leave Message<br/>
-Set the leave message you would like the bot to send when a user leaves. Click [here](https://asraparadise.github.io/commands/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the leave message.<br/>
+Set the leave message you would like the bot to send when a user leaves. Click [here](https://asraparadise.github.io/commands/asra/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the leave message.<br/>
 `/settings setleavemessage [channel] [message]`
 
 #### Member Counter<br/>
@@ -122,7 +127,7 @@ Set the channel Suggestions for your server from your members will be sent in.<b
 `/settings setupsuggestions [channel] [role]`
 
 #### Welcome Message<br/>
-Set the welcome message you would like the bot to send when a new user joins. The image link you provide should be to an online image hosting service such as imgur. Click [here](https://asraparadise.github.io/commands/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the welcome message.<br/>
+Set the welcome message you would like the bot to send when a new user joins. The image link you provide should be to an online image hosting service such as imgur. Click [here](https://asraparadise.github.io/commands/asra/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the welcome message.<br/>
 `/settings setwelcomemessage [channel] [message] (imagelink)`
 
 
