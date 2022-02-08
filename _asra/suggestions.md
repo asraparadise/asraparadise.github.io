@@ -5,7 +5,7 @@ date: 2021-08-25T15:14:39+10:00
 featured: false
 description: We want your feedback! Request features for the bot or the community server with these commands.
 show: true
-weight: 11
+weight: 14
 layout: command
 permalink: "/commands/asra/suggestions/"
 ---
