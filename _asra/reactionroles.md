@@ -32,9 +32,9 @@ _________________
 
 View what reaction roles have been set up in your server using `/reactionrole list`.
 
-To setup a new reaction role, use the command the `/reactionrole add [channel] [messageid] [emoji] [role]`.
+To setup a new reaction role, use the command `/reactionrole add [channel] [messageid] [emoji] [role]`.
 
-> :memo: **Note:** To get a message ID, right click the message on Discord, then click Copy ID. If you don’t see the copy ID option, make sure you have developer mode on. You can find it in your User Settings -> Advanced.
+> 💡 **Tip:** To get a message ID, right click the message on Discord, then click Copy ID. If you don’t see the copy ID option, make sure you have developer mode on. You can find it in your User Settings -> Advanced.
 
 
 ## Editing/Deleting a Reaction Role
@@ -44,9 +44,8 @@ _________________
 To edit a reaction role, re-run the `/reactionrole add [channel] [messageid] [emoji] [role]` command and it will overwrite any changes made.
 
 <br>
-
 To delete a reaction role, use the command `/reactionrole remove [channel] [messageid] [emoji]`.
 
 Note: Asra will not delete the message or remove the reactions from the reaction role message when deleted.
 
-> :warning: **Warning:** Manually deleting the reaction role message will not remove it from the reaction role list, make sure to delete it using the remove command for it to truly be deleted.
+> ⚠️ **Warning:** Manually deleting the reaction role message will not remove it from the reaction role list, make sure to delete it using the remove command for it to truly be deleted.
