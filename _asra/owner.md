@@ -55,80 +55,80 @@ To view a summary of which modules are enabled and disabled in your server, use 
 
 #### Action Logs<br/>
 Set the channel where events such as create or delete channel/role will be logged.<br/>
-`/settings setactionlogchannel [channel]`
+`/settings actionlog [channel]`
 
 #### Automod<br/>
 Setup automod. You can set an optional channel which Automod actions will be logged in.<br/>
-`/settings setupautomod (channel)`
+`/settings automod (channel)`
 
 #### Autoroles<br/>
 Set the roles to be automatically given to any new user that joins. (Max 10)<br/>
-`/settings setupautoroles [role1] (role2) ...`
+`/settings autoroles [role1] (role2) ...`
 
 #### Bump Reminders<br/>
 Turn on bump reminders for the server and have an optional ping role. Bump reminders work with the DISBOARD bot.<br/>
-`/settings setupbumpreminder (pingrole)`
+`/settings bumpreminders (pingrole)`
 
 #### Chatbot<br/>
 Setup a channel where Asra will respond to all messages sent in using AI.<br/>
-`/settings setupchatbot [channel]`
+`/settings chatbot [channel]`
 
 #### Counting<br/>
 Setup a counting channel in your server.<br/>
-`/settings setupcounting [channel]`
+`/settings counting [channel]`
 
 #### Giveaways<br/>
 Setup giveaways in your server by setting a role which can manage and create giveaways.<br/>
-`/settings setupgiveaways [role]`
+`/settings giveaways [role]`
 
 #### Leave Message<br/>
 Set the leave message you would like the bot to send when a user leaves. Click [here](https://asraparadise.github.io/commands/asra/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the leave message.<br/>
-`/settings setleavemessage [channel] [message]`
+`/settings leavemessage [channel] [message]`
 
 #### Member Counter<br/>
 Setup a channel which will have the member count of the server as the name and will update whenever a user joins or leaves.<br/>
 The text parameter allows you to enter the text which should appear as the Discord channel name using the variable {count} E.g: Members: {count}
-`/settings setupmembercounter [channel] [text]`
+`/settings membercounter [type] [name]`
 
 #### Message Logs<br/>
 Set the channel where message events (edit/delete) will be logged.<br/>
-`/settings setmessagelogchannel [channel]`
+`/settings messagelog [channel]`
 
 #### Moderation Logs<br/>
 Set the channel Moderator actions will be logged in.<br/>
-`/settings setmoderationlogchannel [channel]`
+`/settings moderationlog [channel]`
 
 #### Moderation - Warn<br/>
 Set the staff roles which should be allowed to warn, view warnings and delete warnings for server members. (Max 10)<br/>
-`/settings setstaffwarnrole [role1] (role2) ...`
+`/settings warnmanagers [role1] (role2) ...`
 
 #### Moderation - Mute<br/>
 Set the staff roles which should be allowed to mute, and unmute server members. (Max 10)<br/>
-`/settings setstaffmuterole [role1] (role2) ...`
+`/settings mutemanagers [role1] (role2) ...`
 
 #### Moderation - Kick<br/>
 Set the staff roles which should be allowed to kick server members. (Max 10)<br/>
-`/settings setstaffkickrole [role1] (role2) ...`
+`/settings kickmanagers [role1] (role2) ...`
 
 #### Moderation - Ban<br/>
 Set the staff roles which should be allowed to ban, view all bans and unban server members. (Max 10)<br/>
-`/settings setstaffbanrole [role1] (role2) ...`
+`/settings banmanagers [role1] (role2) ...`
 
 #### Moderation - Muted Role<br/>
 Set the role which should be given to a muted member.<br/>
-`/settings setmutedrole [role]`
+`/settings mutedrole [role]`
 
 #### QOTD<br/>
 Set the qotd channel, the role that can create them and the role to be pinged whenever one is created.<br/>
-`/settings setupqotd [channel] [role] (pingrole)`
+`/settings qotd [channel] [role] (pingrole)`
 
 #### Suggestions<br/>
 Set the channel Suggestions for your server from your members will be sent in.<br/>
-`/settings setupsuggestions [channel] [role]`
+`/settings suggestions [channel] [role]`
 
 #### Welcome Message<br/>
 Set the welcome message you would like the bot to send when a new user joins. The image link you provide should be to an online image hosting service such as imgur. Click [here](https://asraparadise.github.io/commands/asra/owner/#variables-for-welcome-and-leave-messages) to see the variables you can use in the welcome message.<br/>
-`/settings setwelcomemessage [channel] [message] (imagelink)`
+`/settings welcomemessage [channel] [message] (imagelink)`
 
 
 ## Variables for welcome and leave messages
