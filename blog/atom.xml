@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://asraparadise.github.io/blog</id>
+    <title>Asra Paradise Blog</title>
+    <updated>2022-03-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://asraparadise.github.io/blog"/>
+    <subtitle>Asra Paradise Blog</subtitle>
+    <icon>https://asraparadise.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Website Rewrite]]></title>
+        <id>website-rewrite</id>
+        <link href="https://asraparadise.github.io/blog/website-rewrite"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asra's website just got a more modern and convenient design]]></summary>
+        <content type="html"><![CDATA[<p>Well It's finally done. Disguised and I have been planning on a new design for the website, and I am pleased to say, It's finally done.
+I've been working on the new website for over a month (Since Feb 20, 2022)</p><p>New Features:</p><ul><li>Dark And Light Theme</li><li>Improved Documentation</li><li>Improved Forms</li><li>Improved Main Page</li></ul>]]></content>
+        <author>
+            <name>Mexi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Configuration]]></title>
+        <id>advanced-configuration</id>
+        <link href="https://asraparadise.github.io/blog/advanced-configuration"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Advanced Configuration! Asra just became a whole lot more customizable.]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="introducing-advanced-configuration">Introducing Advanced Configuration<a class="hash-link" href="#introducing-advanced-configuration" title="Direct link to heading">​</a></h3><p>Asra is a fully customizable, multipurpose bot for your Discord server. Custom welcome messages, a global Economy system, Giveaways, Suggestions, Levelling, Moderation, QOTD and so much more are all included!</p><h4 class="anchor anchorWithStickyNavbar_mojV" id="modules">Modules<a class="hash-link" href="#modules" title="Direct link to heading">​</a></h4><p>Below are the modules which are customisable and can be setup in your server.</p><ul><li><a href="/docs/commands/owner/#action-logs">Action Logs</a></li><li><a href="/docs/commands/owner/#automod">Automod</a></li><li><a href="/docs/commands/owner/#autoroles">Autoroles</a></li><li><a href="/docs/commands/owner/#bump-reminders">Bump Reminders</a></li><li><a href="/docs/commands/owner/#chatbot">Chatbot</a></li><li><a href="/docs/commands/owner/#counting">Counting</a></li><li><a href="/docs/commands/owner/#giveaways">Giveaways</a></li><li><a href="/docs/commands/owner/#leave-message">Leave Message</a></li><li><a href="/docs/commands/owner/#member-counter">Member Counter</a></li><li><a href="/docs/commands/owner/#message-logs">Message Logs</a></li><li><a href="/docs/commands/owner/#moderation-logs">Moderation Logs</a></li><li><a href="/docs/commands/owner/#moderation---warn">Moderation - Warn</a></li><li><a href="/docs/commands/owner/#moderation---mute">Moderation - Mute</a></li><li><a href="/docs/commands/owner/#moderation---kick">Moderation - Kick</a></li><li><a href="/docs/commands/owner/#moderation---ban">Moderation - Ban</a></li><li><a href="/docs/commands/owner/#moderation---muted-role">Moderation - Muted Role</a></li><li><a href="/docs/commands/owner/#qotd">QOTD</a></li><li><a href="/docs/commands/owner/#suggestions">Suggestions</a></li><li><a href="/docs/commands/owner/#welcome-message">Welcome Message</a></li></ul><p>To list all of the current settings for your server, use the command <code>/settings list</code></p><p>To view a summary of which modules are enabled and disabled in your server, use the command <code>/modules</code></p><p>To setup a module for first use, use the <code>/settings</code> command. More info can be found <a href="/docs/commands/owner/#modules">here</a>.</p><p>To enable/disable a module, use the <code>/toggle module [state] [module]</code> command.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="website-rewrite">Website Rewrite<a class="hash-link" href="#website-rewrite" title="Direct link to heading">​</a></h3><p>Website upgrades took place for serveral days at the end of December and again this week, simplifying the website and making it more intutive to find the things you need.
+Staff Applications for Asra Paradise also moved onto the website as opposed to the previous Google Form along with increased support and command information within the website.</p>]]></content>
+        <author>
+            <name>Disguised</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economy Upgrades & Going Public]]></title>
+        <id>economy-upgrades-going-public</id>
+        <link href="https://asraparadise.github.io/blog/economy-upgrades-going-public"/>
+        <updated>2021-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A rewrite of the bot, going public and an inventory system - What more could you want from your favourite bot Asra?]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="slash-command-support">Slash command support<a class="hash-link" href="#slash-command-support" title="Direct link to heading">​</a></h3><p>Asra has recently migrated to slash commands and with it has brought a whole host of new commands and features as well as better uptime. Find all new commands using <code>/help</code></p><h3 class="anchor anchorWithStickyNavbar_mojV" id="economy-system">Economy System<a class="hash-link" href="#economy-system" title="Direct link to heading">​</a></h3><ul><li>Brand new Inventory system</li><li>Sell items or gift items to other users</li><li>Weekly command for Premium Users</li><li>Economy commands no longer auto sell items collected but instead store them in your inventory where they can be sold or traded later.
+Lots of items are planned to be added but suggestions are welcome.</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="vote-rewards">Vote Rewards<a class="hash-link" href="#vote-rewards" title="Direct link to heading">​</a></h3><p>Each time you vote, you will now recieve 10,000 asra coins.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="christmas-2021-exclusive-item">Christmas 2021 Exclusive Item<a class="hash-link" href="#christmas-2021-exclusive-item" title="Direct link to heading">​</a></h3><p>For a LIMITED TIME ONLY, using ANY slash commands has a 1 in 200 chance of giving you a Christmas Present. This is an exclusive item for Christmas 2021 which can't be bought or sold (Only traded). This will be a very valuable item due to its rarity.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="becoming-a-public-bot">Becoming a Public Bot<a class="hash-link" href="#becoming-a-public-bot" title="Direct link to heading">​</a></h3><p>I've made the decision recently to open up the Asra bot to the public so everyone can now enjoy all the features it brings to the Asra Paradise community server themselves.<br>
+Asra is a fully customizable, multipurpose discord bot with a global economy system, custom welcome messages, giveaways, moderation, anti-spam, auto roles, tickets, and much more!<br>
+Please support us and try the bot out in your server by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=751171098971865119&amp;permissions=8&amp;scope=applications.commands%20bot" target="_blank" rel="noopener noreferrer">here</a> to invite the bot!</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="premium">Premium<a class="hash-link" href="#premium" title="Direct link to heading">​</a></h3><p>I've made the decision to introduce Asra Premium which is the paid version of Asra.<br>
+Whilst Asra is primarily a free bot, we have some premium only features to help support development and hopefully enable us to pay for hosting and improve the power and speed of the bot.<br>
+To learn more about how to redeem premium, visit our <a href="https://www.patreon.com/asraparadise" target="_blank" rel="noopener noreferrer">Patreon</a>.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="suggestions-for-features">Suggestions for Features<a class="hash-link" href="#suggestions-for-features" title="Direct link to heading">​</a></h3><p>Any suggestions for features or commands for the bot are welcome and can be submitted using <code>/botsuggest</code> or in the <a href="https://discord.com/invite/qwCzwBvRn9" target="_blank" rel="noopener noreferrer">Support Server</a>.</p><p><strong>Thank you for your support and for choosing to have Asra in your server.</strong></p>]]></content>
+        <author>
+            <name>Disguised</name>
+        </author>
+    </entry>
+</feed>
